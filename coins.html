@@ -1,12 +1,19 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Coins</title>
-  </head>
-  <body>
-    <h1>Coins</h1>
-    <p>Coin list will go here.</p>
-    <a href="./index.html">Back to Index</a>
-  </body>
-</html>
+---
+layout: default
+title: Coins
+---
+
+<h1>Coin List</h1>
+
+<ul>
+  {% assign coins = site.data.coins %}
+  {% for coin in coins %}
+    <li style="margin-bottom: 20px;">
+      <strong>{{ coin.name }}</strong><br>
+      {% if coin.images and coin.images[0] %}
+        <img src="{{ '/assets/coins/' | append: coin.code | append: '/' | append: coin.images[0] | relative_url }}"
+             alt="{{ coin.name }}" style="max-width: 200px;">
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

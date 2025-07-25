@@ -1,0 +1,14 @@
+title: My Collection
+description: My Collection
+baseurl: "/Collection"
+url: "https://RomanNiukalo.github.io"
+
+theme: cayman
+markdown: kramdown
+
+include:
+  - _data
+  - assets
+
+plugins:
+  - jekyll-feed

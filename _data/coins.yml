@@ -1,0 +1,26 @@
+- code: C001
+  name: Gold Coin
+  images:
+    - image1.jpg
+    - image2.jpg
+  pdf: C001.pdf
+  category: Commemorative
+  nominal: 100
+  currency: USD
+  issue_date: 2020
+  material: Gold
+  country: USA
+  tags: [gold, commemorative]
+
+- code: C002
+  name: Silver Coin
+  images:
+    - image1.jpg
+  pdf: C002.pdf
+  category: Regular
+  nominal: 1
+  currency: EUR
+  issue_date: 2019
+  material: Silver
+  country: Germany
+  tags: [silver, euro]

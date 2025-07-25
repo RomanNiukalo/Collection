@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% assign coin = site.data.coins | where: "code", page.code | first %}
+
+{% if coin %}
+  <h1>{{ coin.name }}</h1>
+
+  {% if coin.images %}
+    <div style="display: flex; gap: 10px;">
+      {% for image in coin.images %}
+        <img src="{{ '/assets/coins/' | append: coin.code | append: '/' | append: image | relative_url }}" alt="{{ coin.name }}" style="max-width: 200px;">
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  <p><strong>Nominal:</strong> {{ coin.nominal }} {{ coin.currency }}</p>
+  <p><strong>Category:</strong> {{ coin.category }}</p>
+  <p><strong>Issued:</strong> {{ coin.issue_date }}</p>
+  <p><strong>Material:</strong> {{ coin.material }}</p>
+  <p><strong>Country:</strong> {{ coin.country }}</p>
+
+  {% if coin.pdf %}
+    <p><a href="{{ '/assets/coins/' | append: coin.code | append: '/' | append: coin.pdf | relative_url }}" target="_blank">View PDF</a></p>
+  {% endif %}
+
+  <p><a href="{{ '/coins.html' | relative_url }}">← Back to Coin List</a></p>
+{% else %}
+  <p>Coin data not found.</p>
+{% endif %}

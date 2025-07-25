@@ -9,7 +9,9 @@ title: Coins
   {% assign coins = site.data.coins %}
   {% for coin in coins %}
     <li style="margin-bottom: 20px;">
-      <strong>{{ coin.name }}</strong><br>
+      <a href="{{ '/coins/' | append: coin.code | append: '/' | relative_url }}">
+        <strong>{{ coin.name }}</strong>
+      </a><br>
       {% if coin.images and coin.images[0] %}
         <img src="{{ '/assets/coins/' | append: coin.code | append: '/' | append: coin.images[0] | relative_url }}"
              alt="{{ coin.name }}" style="max-width: 200px;">
@@ -17,3 +19,4 @@ title: Coins
     </li>
   {% endfor %}
 </ul>
+

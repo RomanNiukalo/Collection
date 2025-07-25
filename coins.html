@@ -8,15 +8,17 @@ title: Coins
 <ul>
   {% assign coins = site.data.coins %}
   {% for coin in coins %}
+    {% assign code_lc = coin.code | downcase %}
     <li style="margin-bottom: 20px;">
-      <a href="{{ '/coins/' | append: coin.code | append: '/' | relative_url }}">
+      <a href="{{ '/coins/' | append: code_lc | append: '/' | relative_url }}">
         <strong>{{ coin.name }}</strong>
       </a><br>
       {% if coin.images and coin.images[0] %}
-        <img src="{{ '/assets/coins/' | append: coin.code | append: '/' | append: coin.images[0] | relative_url }}"
+        <img src="{{ '/assets/coins/' | append: code_lc | append: '/' | append: coin.images[0] | relative_url }}"
              alt="{{ coin.name }}" style="max-width: 200px;">
       {% endif %}
     </li>
   {% endfor %}
 </ul>
+
 

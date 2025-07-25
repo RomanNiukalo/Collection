@@ -3,7 +3,7 @@ description: My Collection
 baseurl: "/Collection"
 url: "https://RomanNiukalo.github.io"
 
-theme: cayman
+remote_theme: pages-themes/cayman
 markdown: kramdown
 
 include:
@@ -12,3 +12,4 @@ include:
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme

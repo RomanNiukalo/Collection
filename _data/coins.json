@@ -12,13 +12,11 @@
         "material": "нейзильбер",
         "country": "Україна",
         "tags": [
-            "Збройні Сили України",
-            "Сувенір",
-            "Зброя",
-            "Вампір"
+            "Збройні Сили України"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C88a.png",
         "pdf": "C88u.pdf",
         "characteristics": [
             [
@@ -54,9 +52,9 @@
             "C88a.png",
             "C88a0.png",
             "C88r.png",
-            "C88r0.png"
-        ],
-        "main_image": "C88a.png"
+            "C88r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8GK",
@@ -73,8 +71,9 @@
         "tags": [
             null
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "8GKa.png",
         "pdf": "8GKu.pdf",
         "characteristics": [
             [
@@ -98,9 +97,9 @@
             "8GKa.png",
             "8GKa0.png",
             "8GKr.png",
-            "8GKr0.png"
-        ],
-        "main_image": "8GKa.png"
+            "8GKr0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C89",
@@ -117,8 +116,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C89a.png",
         "pdf": "C89u.pdf",
         "characteristics": [
             [
@@ -154,9 +154,9 @@
             "C89a.png",
             "C89a0.png",
             "C89r.png",
-            "C89r0.png"
-        ],
-        "main_image": "C89a.png"
+            "C89r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C77",
@@ -173,8 +173,9 @@
         "tags": [
             "Збройні Сили України"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C77a.png",
         "pdf": "C77u.pdf",
         "characteristics": [
             [
@@ -210,9 +211,9 @@
             "C77a.png",
             "C77a0.png",
             "C77r.png",
-            "C77r0.png"
-        ],
-        "main_image": "C77a.png"
+            "C77r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C74",
@@ -229,8 +230,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C74a.png",
         "pdf": "C74u.pdf",
         "characteristics": [
             [
@@ -266,9 +268,9 @@
             "C74a.png",
             "C74a0.png",
             "C74r.png",
-            "C74r0.png"
-        ],
-        "main_image": "C74a.png"
+            "C74r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C75",
@@ -285,8 +287,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C75a.png",
         "pdf": "C75u.pdf",
         "characteristics": [
             [
@@ -322,9 +325,9 @@
             "C75a.png",
             "C75a0.png",
             "C75r.png",
-            "C75r0.png"
-        ],
-        "main_image": "C75a.png"
+            "C75r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C73",
@@ -343,6 +346,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "C73a.png",
         "pdf": "C73u.pdf",
         "characteristics": [
             [
@@ -378,9 +382,9 @@
             "C73a.png",
             "C73a0.png",
             "C73r.png",
-            "C73r0.png"
-        ],
-        "main_image": "C73a.png"
+            "C73r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C87",
@@ -399,6 +403,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "C87a.png",
         "pdf": "C87u.pdf",
         "characteristics": [
             [
@@ -432,9 +437,9 @@
         ],
         "images": [
             "C87a.png",
-            "C87r.png"
-        ],
-        "main_image": "C87a.png"
+            "C87r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C72",
@@ -451,8 +456,9 @@
         "tags": [
             "Українська спадщина"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C72a.png",
         "pdf": "C72u.pdf",
         "characteristics": [
             [
@@ -484,9 +490,9 @@
             "C72a.png",
             "C72a0.png",
             "C72r.png",
-            "C72r0.png"
-        ],
-        "main_image": "C72a.png"
+            "C72r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8GI",
@@ -505,6 +511,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "8GIa.png",
         "pdf": "8GIu.pdf",
         "characteristics": [
             [
@@ -532,9 +539,9 @@
             "8GIa.png",
             "8GIa0.png",
             "8GIr.png",
-            "8GIr0.png"
-        ],
-        "main_image": "8GIa.png"
+            "8GIr0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C67",
@@ -553,6 +560,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "C67a.png",
         "pdf": "C67u.pdf",
         "characteristics": [
             [
@@ -588,9 +596,9 @@
             "C67a.png",
             "C67a0.png",
             "C67r.png",
-            "C67r0.png"
-        ],
-        "main_image": "C67a.png"
+            "C67r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C69",
@@ -607,8 +615,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C69a.png",
         "pdf": "C69u.pdf",
         "characteristics": [
             [
@@ -644,9 +653,9 @@
             "C69a.png",
             "C69a0.png",
             "C69r.png",
-            "C69r0.png"
-        ],
-        "main_image": "C69a.png"
+            "C69r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C70",
@@ -663,8 +672,9 @@
         "tags": [
             "Видатні особистості України"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C70a.png",
         "pdf": "C70u.pdf",
         "characteristics": [
             [
@@ -700,9 +710,9 @@
             "C70a.png",
             "C70a0.png",
             "C70r.png",
-            "C70r0.png"
-        ],
-        "main_image": "C70a.png"
+            "C70r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C68",
@@ -719,8 +729,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C68a.png",
         "pdf": "C68u.pdf",
         "characteristics": [
             [
@@ -752,9 +763,9 @@
             "C68a.png",
             "C68a0.png",
             "C68r.png",
-            "C68r0.png"
-        ],
-        "main_image": "C68a.png"
+            "C68r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C66",
@@ -771,8 +782,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C66a.png",
         "pdf": "C66u.pdf",
         "characteristics": [
             [
@@ -808,9 +820,9 @@
             "C66a.png",
             "C66a0.png",
             "C66r.png",
-            "C66r0.png"
-        ],
-        "main_image": "C66a.png"
+            "C66r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C57",
@@ -827,8 +839,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C57a.png",
         "pdf": "C57u.pdf",
         "characteristics": [
             [
@@ -864,9 +877,9 @@
             "C57a.png",
             "C57a0.png",
             "C57r.png",
-            "C57r0.png"
-        ],
-        "main_image": "C57a.png"
+            "C57r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C51",
@@ -885,6 +898,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "C51a.png",
         "pdf": "C51u.pdf",
         "characteristics": [
             [
@@ -916,9 +930,9 @@
             "C51a.png",
             "C51a0.png",
             "C51r.png",
-            "C51r0.png"
-        ],
-        "main_image": "C51a.png"
+            "C51r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C60",
@@ -937,6 +951,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "C60a.png",
         "pdf": "C60u.pdf",
         "characteristics": [
             [
@@ -964,9 +979,9 @@
             "C60a.png",
             "C60a0.png",
             "C60r.png",
-            "C60r0.png"
-        ],
-        "main_image": "C60a.png"
+            "C60r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C56",
@@ -983,8 +998,9 @@
         "tags": [
             "Збройні Сили України"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C56a.png",
         "pdf": "",
         "characteristics": [
             [
@@ -1020,9 +1036,9 @@
             "C56a.png",
             "C56a0.png",
             "C56r.png",
-            "C56r0.png"
-        ],
-        "main_image": "C56a.png"
+            "C56r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C62",
@@ -1039,8 +1055,9 @@
         "tags": [
             "Збройні Сили України"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C62a.png",
         "pdf": "C62u.pdf",
         "characteristics": [
             [
@@ -1076,9 +1093,9 @@
             "C62a.png",
             "C62a0.png",
             "C62r.png",
-            "C62r0.png"
-        ],
-        "main_image": "C62a.png"
+            "C62r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C63",
@@ -1095,8 +1112,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C63a.png",
         "pdf": "C63u.pdf",
         "characteristics": [
             [
@@ -1132,9 +1150,9 @@
             "C63a.png",
             "C63a0.png",
             "C63r.png",
-            "C63r0.png"
-        ],
-        "main_image": "C63a.png"
+            "C63r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C64",
@@ -1151,8 +1169,9 @@
         "tags": [
             "Східний календар"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C64a.png",
         "pdf": "C64u.pdf",
         "characteristics": [
             [
@@ -1188,9 +1207,9 @@
             "C64a.png",
             "C64a0.png",
             "C64r.png",
-            "C64r0.png"
-        ],
-        "main_image": "C64a.png"
+            "C64r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8F8",
@@ -1209,6 +1228,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "8F8a.png",
         "pdf": "8F8u.pdf",
         "characteristics": [
             [
@@ -1232,9 +1252,9 @@
             "8F8a.png",
             "8F8a0.png",
             "8F8r.png",
-            "8F8r0.png"
-        ],
-        "main_image": "8F8a.png"
+            "8F8r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C61",
@@ -1253,6 +1273,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "C61a.png",
         "pdf": "C61u.pdf",
         "characteristics": [
             [
@@ -1288,9 +1309,9 @@
             "C61a.png",
             "C61a0.png",
             "C61r.png",
-            "C61r0.png"
-        ],
-        "main_image": "C61a.png"
+            "C61r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C54",
@@ -1307,8 +1328,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C54a.png",
         "pdf": "C54u.pdf",
         "characteristics": [
             [
@@ -1344,9 +1366,9 @@
             "C54a.png",
             "C54a0.png",
             "C54r.png",
-            "C54r0.png"
-        ],
-        "main_image": "C54a.png"
+            "C54r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C59",
@@ -1363,8 +1385,9 @@
         "tags": [
             "Українська спадщина"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C59a.png",
         "pdf": "",
         "characteristics": [
             [
@@ -1400,9 +1423,9 @@
             "C59a.png",
             "C59a0.png",
             "C59r.png",
-            "C59r0.png"
-        ],
-        "main_image": "C59a.png"
+            "C59r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8F7",
@@ -1421,6 +1444,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "8F7a.png",
         "pdf": "8F7u.pdf",
         "characteristics": [
             [
@@ -1436,9 +1460,9 @@
             "8F7a.png",
             "8F7a0.png",
             "8F7r.png",
-            "8F7r0.png"
-        ],
-        "main_image": "8F7a.png"
+            "8F7r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C49",
@@ -1455,8 +1479,9 @@
         "tags": [
             "Безсмертна моя Україно"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C49a.png",
         "pdf": "C49u.pdf",
         "characteristics": [
             [
@@ -1490,9 +1515,9 @@
         ],
         "images": [
             "C49a.png",
-            "C49r.png"
-        ],
-        "main_image": "C49a.png"
+            "C49r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C50",
@@ -1509,8 +1534,9 @@
         "tags": [
             "Збройні Сили України"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C50a.png",
         "pdf": "C50u.pdf",
         "characteristics": [
             [
@@ -1544,9 +1570,9 @@
         ],
         "images": [
             "C50a.png",
-            "C50r.png"
-        ],
-        "main_image": "C50a.png"
+            "C50r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C48",
@@ -1563,8 +1589,9 @@
         "tags": [
             "Видатні особистості України"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C48a.png",
         "pdf": "C48u.pdf",
         "characteristics": [
             [
@@ -1598,9 +1625,9 @@
         ],
         "images": [
             "C48a.png",
-            "C48r.png"
-        ],
-        "main_image": "C48a.png"
+            "C48r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8F5",
@@ -1619,6 +1646,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "8F5a.png",
         "pdf": "8F5u.pdf",
         "characteristics": [
             [
@@ -1642,9 +1670,9 @@
             "8F5a.png",
             "8F5a0.png",
             "8F5r.png",
-            "8F5r0.png"
-        ],
-        "main_image": "8F5a.png"
+            "8F5r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C47",
@@ -1661,8 +1689,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C47a.png",
         "pdf": "",
         "characteristics": [
             [
@@ -1692,9 +1721,9 @@
         ],
         "images": [
             "C47a.png",
-            "C47r.png"
-        ],
-        "main_image": "C47a.png"
+            "C47r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8F4",
@@ -1713,6 +1742,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "8F4a.png",
         "pdf": "8F4u.pdf",
         "characteristics": [
             [
@@ -1736,9 +1766,9 @@
             "8F4a.png",
             "8F4a0.png",
             "8F4r.png",
-            "8F4r0.png"
-        ],
-        "main_image": "8F4a.png"
+            "8F4r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C45",
@@ -1755,8 +1785,9 @@
         "tags": [
             "Українська спадщина"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C45a.png",
         "pdf": "",
         "characteristics": [
             [
@@ -1792,9 +1823,9 @@
             "C45a.png",
             "C45a0.png",
             "C45r.png",
-            "C45r0.png"
-        ],
-        "main_image": "C45a.png"
+            "C45r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C43",
@@ -1811,8 +1842,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C43a.png",
         "pdf": "C43u.pdf",
         "characteristics": [
             [
@@ -1846,9 +1878,9 @@
         ],
         "images": [
             "C43a.png",
-            "C43r.png"
-        ],
-        "main_image": "C43a.png"
+            "C43r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C38",
@@ -1865,8 +1897,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C38a.png",
         "pdf": "C38u.pdf",
         "characteristics": [
             [
@@ -1902,9 +1935,9 @@
             "C38a.png",
             "C38a0.png",
             "C38r.png",
-            "C38r0.png"
-        ],
-        "main_image": "C38a.png"
+            "C38r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C42",
@@ -1921,8 +1954,9 @@
         "tags": [
             "Флора і фауна України"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C42a.png",
         "pdf": "C42u.pdf",
         "characteristics": [
             [
@@ -1956,9 +1990,9 @@
         ],
         "images": [
             "C42a.png",
-            "C42r.png"
-        ],
-        "main_image": "C42a.png"
+            "C42r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C52",
@@ -1975,8 +2009,9 @@
         "tags": [
             "Флора і фауна України"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C52a.png",
         "pdf": "",
         "characteristics": [
             [
@@ -2012,9 +2047,9 @@
             "C52a.png",
             "C52a0.png",
             "C52r.png",
-            "C52r0.png"
-        ],
-        "main_image": "C52a.png"
+            "C52r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C41",
@@ -2031,8 +2066,9 @@
         "tags": [
             "Збройні Сили України"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C41a.png",
         "pdf": "C41u.pdf",
         "characteristics": [
             [
@@ -2066,9 +2102,9 @@
         ],
         "images": [
             "C41a.png",
-            "C41r.png"
-        ],
-        "main_image": "C41a.png"
+            "C41r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C36",
@@ -2087,6 +2123,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "C36a.png",
         "pdf": "C36u.pdf",
         "characteristics": [
             [
@@ -2116,9 +2153,9 @@
         ],
         "images": [
             "C36a.png",
-            "C36r.png"
-        ],
-        "main_image": "C36a.png"
+            "C36r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C39",
@@ -2135,8 +2172,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C39a.png",
         "pdf": "C39u.pdf",
         "characteristics": [
             [
@@ -2172,9 +2210,9 @@
             "C39a.png",
             "C39a0.png",
             "C39r.png",
-            "C39r0.png"
-        ],
-        "main_image": "C39a.png"
+            "C39r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8FW",
@@ -2191,8 +2229,9 @@
         "tags": [
             null
         ],
-        "quantity": 1,
+        "quantity": 4,
         "comments": null,
+        "main_image": "8FWa.png",
         "pdf": "",
         "characteristics": [
             [
@@ -2212,9 +2251,9 @@
             "8FWa.png",
             "8FWa0.png",
             "8FWr.png",
-            "8FWr0.png"
-        ],
-        "main_image": "8FWa.png"
+            "8FWr0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C37",
@@ -2233,6 +2272,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "C37a.png",
         "pdf": "C37u.pdf",
         "characteristics": [
             [
@@ -2264,63 +2304,9 @@
             "C37a.png",
             "C37a0.png",
             "C37r.png",
-            "C37r0.png"
-        ],
-        "main_image": "C37a.png"
-    },
-    {
-        "code": "C40",
-        "name": "Управління державної охорони України (н)",
-        "descr1": "Пам’ятна монета присвячена державному правоохоронному органу спеціального призначення, що посідає особливе місце в системі забезпечення національної безпеки України.",
-        "descr2": "На аверсі монети розміщено: на дзеркальному тлі емблему Управління державної охорони України (ліворуч), номінал 5 та графічний символ гривні (угорі над емблемою); малий Державний Герб України, написи: УКРАЇНА / 2024, логотип Банкнотно-монетного двору Національного банку України (унизу під емблемою); праворуч на матовому тлі девіз: ДЕРЖАВІ / НАРОДОВІ / ЗАКОНУ.",
-        "descr3": "На реверсі монети на дзеркальному тлі розміщено стилізовану композицію, що символізує різні історичні періоди становлення України та захист держави українськими воїнами, хоробрість яких крізь покоління залишається незмінною. Ліворуч на композиції зображено стилізований тризуб; у центрі зображено булаву з шаблями, щитом, оздобленим козацьким хрестом, що є символами влади, бойового побратимства та захисту; праворуч – фрагмент об’єктива камери, що символізує сучасні технології в організації процесу охорони та безпеки.",
-        "series": "Інші монети",
-        "nominal": "5",
-        "currency": "UAH",
-        "date": "29.01.2024",
-        "material": "нейзильбер",
-        "country": "Україна",
-        "tags": [
-            "Інші монети"
-        ],
-        "quantity": 1,
-        "comments": null,
-        "pdf": "C40u.pdf",
-        "characteristics": [
-            [
-                "Художник",
-                "Дизайн – Кучинська Олександра"
-            ],
-            [
-                "Скульптор",
-                "Дем`яненко Володимир, Демяненко Анатолій"
-            ],
-            [
-                "Тираж (оголошений/фактичний), шт.",
-                "50000/40000"
-            ],
-            [
-                "Маса, г",
-                "16.54"
-            ],
-            [
-                "Діаметр, мм",
-                "35"
-            ],
-            [
-                "Категорія якості карбування",
-                "спеціальний анциркулейтед"
-            ],
-            [
-                "Гурт",
-                "рифлений"
-            ]
-        ],
-        "images": [
-            "C40a.png",
-            "C40r.png"
-        ],
-        "main_image": "C40a.png"
+            "C37r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8FT",
@@ -2339,6 +2325,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "8FTa.png",
         "pdf": "8FTu.pdf",
         "characteristics": [
             [
@@ -2374,9 +2361,9 @@
             "8FTr.png",
             "8FTr0.png",
             "8FTr1.png",
-            "8FTr2.png"
-        ],
-        "main_image": "8FTa.png"
+            "8FTr2.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C33",
@@ -2393,8 +2380,9 @@
         "tags": [
             "Безсмертна моя Україно"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C33a.png",
         "pdf": "C33u.pdf",
         "characteristics": [
             [
@@ -2424,9 +2412,9 @@
         ],
         "images": [
             "C33a.png",
-            "C33r.png"
-        ],
-        "main_image": "C33a.png"
+            "C33r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8FZ",
@@ -2445,6 +2433,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "8FZa.png",
         "pdf": "8FZu.pdf",
         "characteristics": [
             [
@@ -2464,9 +2453,9 @@
             "8FZa.png",
             "8FZa0.png",
             "8FZr.png",
-            "8FZr0.png"
-        ],
-        "main_image": "8FZa.png"
+            "8FZr0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C16",
@@ -2483,8 +2472,9 @@
         "tags": [
             "Безсмертна моя Україно"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C16a.png",
         "pdf": "C16u.pdf",
         "characteristics": [
             [
@@ -2518,9 +2508,9 @@
         ],
         "images": [
             "C16a.png",
-            "C16r.png"
-        ],
-        "main_image": "C16a.png"
+            "C16r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C20",
@@ -2537,8 +2527,9 @@
         "tags": [
             "Духовні скарби України"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C20a.png",
         "pdf": "C20u.pdf",
         "characteristics": [
             [
@@ -2574,9 +2565,9 @@
             "C20a.png",
             "C20a0.png",
             "C20r.png",
-            "C20r0.png"
-        ],
-        "main_image": "C20a.png"
+            "C20r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C26",
@@ -2593,8 +2584,9 @@
         "tags": [
             "Східний календар"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C26a.png",
         "pdf": "C26u.pdf",
         "characteristics": [
             [
@@ -2630,9 +2622,9 @@
             "C26a.png",
             "C26a0.png",
             "C26r.png",
-            "C26r0.png"
-        ],
-        "main_image": "C26a.png"
+            "C26r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8FJ",
@@ -2651,6 +2643,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "8FJa.png",
         "pdf": "8FJu.pdf",
         "characteristics": [
             [
@@ -2674,9 +2667,9 @@
             "8FJa.png",
             "8FJa0.png",
             "8FJr.png",
-            "8FJr0.png"
-        ],
-        "main_image": "8FJa.png"
+            "8FJr0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C15",
@@ -2695,6 +2688,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "C15a.png",
         "pdf": "",
         "characteristics": [
             [
@@ -2730,9 +2724,9 @@
             "C15a.png",
             "C15a0.png",
             "C15r.png",
-            "C15r0.png"
-        ],
-        "main_image": "C15a.png"
+            "C15r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C24",
@@ -2751,6 +2745,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "C24a.png",
         "pdf": "",
         "characteristics": [
             [
@@ -2786,9 +2781,9 @@
             "C24a.png",
             "C24a0.png",
             "C24r.png",
-            "C24r0.png"
-        ],
-        "main_image": "C24a.png"
+            "C24r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C22",
@@ -2805,8 +2800,9 @@
         "tags": [
             "Безсмертна моя Україно"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C22a.png",
         "pdf": "C22u.pdf",
         "characteristics": [
             [
@@ -2840,9 +2836,9 @@
         ],
         "images": [
             "C22a.png",
-            "C22r.png"
-        ],
-        "main_image": "C22a.png"
+            "C22r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C32",
@@ -2859,8 +2855,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C32a.png",
         "pdf": "C32u.pdf",
         "characteristics": [
             [
@@ -2896,9 +2893,60 @@
             "C32a.png",
             "C32a0.png",
             "C32r.png",
-            "C32r0.png"
+            "C32r0.png",
+            "thumb.png"
+        ]
+    },
+    {
+        "code": "C35",
+        "name": "Набір із двох срібних монет “Дружба та братство - найбільше багатство” у футлярі (c)",
+        "descr1": "Спільний випуск набору є проявом солідарності народів Польщі та України в умовах російської агресії проти України. Польща всебічно допомагає та підтримує Україну, яка бореться за свободу та незалежність, захищаючи всю Європу. Українці вдячні польському народу за щиросердність, допомогу, підтримку та партнерство.\nТираж набору – до 10 000 штук (у тому числі 5 000 штук для України, до 5 000 штук для Польщі).\nМонета Національного банку України є законним платіжним засобом в Україні. Монета Національного банку Польщі є законним платіжним засобом у Польщі.",
+        "descr2": "На аверсі монети номіналом 10 гривень розміщено: угорі на тлі стилізованого синьо-жовтого прапора (використано тамподрук) – малий Державний Герб України, угорі ліворуч – напис УКРАЇНА та логотип Банкнотно-монетного двору Національного банку України; в центрі написи: маса дорогоцінного металу в чистоті – 31,1 г, рік карбування монети – 2023, позначення металу та його проби – Ag 999; номінал – 10 та графічний символ гривні – на тлі декоративно-художньої композиції, що відтворює жахи війни.\nНа аверсі монети номіналом 10 злотих розміщено: угорі на тлі стилізованого біло-червоного прапора Республіки Польща (використано тамподрук) – зображення орла, офіційно затверджене для герба Республіки Польща; праворуч – рік карбування 2023 та напис RZECZPOSPOLITA POLSKA (півколом); номінал – 10 та графічний символ польського злотого – на тлі \nдекоративно-художньої композиції, що символізує допомогу, підтримку та співчуття; унизу – логотип Банкнотно-монетного двору Національного банку України.",
+        "descr3": "На реверсах монет зображено символічні постаті українця (на монеті номіналом 10 гривень) і поляка (на монеті номіналом 10 злотих), які сидять за одним столом, накритим скатертиною, і діляться хлібом та вином. Це символічна композиція, що притаманна традиційним уявленням і звичаям обох сусідніх слов’янських народів: розділити хліб – означає жити в добрі і злагоді, побрататися, допомогти у скруті. Розламати хліб – розділити долю, найвища ступінь прихильності і приязні. Сидіти за одним столом і пити вино з однієї чаші означає взаємну любов і повагу. Пиття зі спільної чаші символізує єднання, побратимство. \nЯкщо дві монети скласти разом, орнамент у нижній частині утворює квітку – символ надії, життя та розвитку. \nНа реверсі монет розміщено написи півколом: ДРУЖБА ТА БРАТСТВО – НАЙБІЛЬШЕ БАГАТСТВО (на монеті номіналом 10 гривень); PRZYJAZN I BRATERSTWO TO NAJWIEKSZE BOGACTWO (на монеті номіналом 10 злотих).",
+        "series": "Безсмертна моя Україно",
+        "nominal": "10",
+        "currency": "UAH",
+        "date": "24.08.2023",
+        "material": "срібло",
+        "country": "Україна",
+        "tags": [
+            "Безсмертна моя Україно"
         ],
-        "main_image": "C32a.png"
+        "quantity": 1,
+        "comments": null,
+        "main_image": "C35a.png",
+        "pdf": "C35u.pdf",
+        "characteristics": [
+            [
+                "Художник",
+                "Таран Володимир"
+            ],
+            [
+                "Скульптор",
+                "Атаманчук Володимир"
+            ],
+            [
+                "Тираж (оголошений/фактичний), шт.",
+                "10000/10000"
+            ],
+            [
+                "Маса дорогоцінного металу в чистоті, г",
+                "62.2"
+            ],
+            [
+                "Категорія якості карбування",
+                "пруф"
+            ],
+            [
+                "Гурт",
+                "гладкий"
+            ]
+        ],
+        "images": [
+            "C35a.png",
+            "C35r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C13",
@@ -2917,6 +2965,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "C13a.png",
         "pdf": "C13u.pdf",
         "characteristics": [
             [
@@ -2952,9 +3001,9 @@
             "C13a.png",
             "C13a0.png",
             "C13r.png",
-            "C13r0.png"
-        ],
-        "main_image": "C13a.png"
+            "C13r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8FL",
@@ -2973,6 +3022,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "8FLa.png",
         "pdf": "8FLu.pdf",
         "characteristics": [
             [
@@ -2992,9 +3042,9 @@
             "8FLa.png",
             "8FLa0.png",
             "8FLr.png",
-            "8FLr0.png"
-        ],
-        "main_image": "8FLa.png"
+            "8FLr0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C29",
@@ -3013,6 +3063,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "C29a.png",
         "pdf": "",
         "characteristics": [
             [
@@ -3046,9 +3097,9 @@
         ],
         "images": [
             "C29a.png",
-            "C29r.png"
-        ],
-        "main_image": "C29a.png"
+            "C29r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C30",
@@ -3067,6 +3118,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "C30a.png",
         "pdf": "C30u.pdf",
         "characteristics": [
             [
@@ -3102,9 +3154,9 @@
             "C30a.png",
             "C30a0.png",
             "C30r.png",
-            "C30r0.png"
-        ],
-        "main_image": "C30a.png"
+            "C30r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8FK",
@@ -3123,6 +3175,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "8FKa.png",
         "pdf": "8FKu.pdf",
         "characteristics": [
             [
@@ -3142,9 +3195,9 @@
             "8FKa.png",
             "8FKa0.png",
             "8FKr.png",
-            "8FKr0.png"
-        ],
-        "main_image": "8FKa.png"
+            "8FKr0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8E1",
@@ -3161,8 +3214,9 @@
         "tags": [
             null
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "8E1a.png",
         "pdf": "",
         "characteristics": [
             [
@@ -3177,9 +3231,9 @@
         "images": [
             "8E1a.png",
             "8E1r.png",
-            "8E1r0.png"
-        ],
-        "main_image": "8E1a.png"
+            "8E1r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8EZ",
@@ -3196,8 +3250,9 @@
         "tags": [
             null
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "8EZa.png",
         "pdf": "",
         "characteristics": [
             [
@@ -3214,9 +3269,9 @@
             "8EZa0.png",
             "8EZa1.png",
             "8EZr.png",
-            "8EZr0.png"
-        ],
-        "main_image": "8EZa.png"
+            "8EZr0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8E0",
@@ -3233,8 +3288,9 @@
         "tags": [
             "Українська держава"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "8E0a.png",
         "pdf": "8E0u.pdf",
         "characteristics": [
             [
@@ -3271,9 +3327,64 @@
             "8E0r.png",
             "8E0r0.png",
             "8E0r1.png",
-            "8E0r2.png"
+            "8E0r2.png",
+            "thumb.png"
+        ]
+    },
+    {
+        "code": "C07",
+        "name": "Надання статусу країни-кандидата на членство в ЄС (c)",
+        "descr1": "Пам`ятна монета присвячена наданню Україні статусу кандидата на вступ до ЄС. Отримання такого статусу – один із важливих результатів нашого багаторічного євроінтеграційного шляху. Саміт Європейської ради, який відбувся 23 червня 2022 року, став історичним, а позитивне рішення лідерів Європейського Союзу свідчить про солідарність з Україною у цей складний для нашої країни час.",
+        "descr2": "На аверсі монети на дзеркальному тлі розміщено: стилізоване зображення європейського континенту, ліворуч від якого декоративний елемент у вигляді мозаїчного декору, що символізує різноманіття народів, культур, свободу вибору власної долі, відсутність формальних кордонів; на європейському континенті виділено контури України, яка, ніби пазл, доповнює цілісність Європи та  “повертається” додому, де завжди опосередковано була присутня, починаючи з династичних зв’язків Київської держави; праворуч: малий Державний Герб України та напис УКРАЇНА (півколом); номінал– 10 та графічний символ гривні; рік карбування монет – 2022 та напис – ПОВЕРНЕННЯ ДОДОМУ (унизу).",
+        "descr3": "На реверсі монети на тлі стилізованих тризубів розміщено карту України, оздоблену стилізованим національним орнаментом вишивки (карта оздоблена голографічним елементом, який має кінетичний ефект: якщо змінювати кут його нахилу, спостерігається динамічна зміна зображення орнаменту, променів та адміністративної карти України), обрамлену дванадцятьма зірками, що символізують народи Європи в єдності; по колу напис: НАДАННЯ СТАТУСУ КРАЇНИ-КАНДИДАТА НА ЧЛЕНСТВО В ЄС.",
+        "series": "Інші монети",
+        "nominal": "10",
+        "currency": "UAH",
+        "date": "18.11.2022",
+        "material": "срібло",
+        "country": "Україна",
+        "tags": [
+            "Інші монети"
         ],
-        "main_image": "8E0a.png"
+        "quantity": 1,
+        "comments": null,
+        "main_image": "C07a.png",
+        "pdf": "C07u.pdf",
+        "characteristics": [
+            [
+                "Художник",
+                "Таран Володимир , Харук Олександр , Харук Сергій"
+            ],
+            [
+                "Скульптор",
+                "Дем`яненко Володимир ; програмне моделювання"
+            ],
+            [
+                "Тираж (оголошений/фактичний), шт.",
+                "5000/5000"
+            ],
+            [
+                "Маса дорогоцінного металу в чистоті, г",
+                "31.1"
+            ],
+            [
+                "Діаметр, мм",
+                "38.6"
+            ],
+            [
+                "Категорія якості карбування",
+                "пруф"
+            ],
+            [
+                "Гурт",
+                "гладкий із заглибленими написами"
+            ]
+        ],
+        "images": [
+            "C07a.png",
+            "C07r.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C10",
@@ -3290,8 +3401,9 @@
         "tags": [
             "Інші монети"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C10a.png",
         "pdf": "",
         "characteristics": [
             [
@@ -3327,9 +3439,9 @@
             "C10a.png",
             "C10a0.png",
             "C10r.png",
-            "C10r0.png"
-        ],
-        "main_image": "C10a.png"
+            "C10r0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "8FF",
@@ -3348,6 +3460,7 @@
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "8FFa.png",
         "pdf": "8FFu.pdf",
         "characteristics": [
             [
@@ -3367,9 +3480,9 @@
             "8FFa.png",
             "8FFa0.png",
             "8FFr.png",
-            "8FFr0.png"
-        ],
-        "main_image": "8FFa.png"
+            "8FFr0.png",
+            "thumb.png"
+        ]
     },
     {
         "code": "C02",
@@ -3386,8 +3499,9 @@
         "tags": [
             "Безсмертна моя Україно"
         ],
-        "quantity": 1,
+        "quantity": 2,
         "comments": null,
+        "main_image": "C02a.png",
         "pdf": "",
         "characteristics": [
             [
@@ -3423,27 +3537,28 @@
             "C02a.png",
             "C02a0.png",
             "C02r.png",
-            "C02r0.png"
-        ],
-        "main_image": "C02a.png"
+            "C02r0.png",
+            "thumb.png"
+        ]
     },
     {
-        "code": "B88",
-        "name": "В єдності - сила у сувенірній упаковці (н)",
+        "code": "C00",
+        "name": "В єдності - сила (c)",
         "descr1": "Пам`ятна монета присвячена всенародному єднанню українців у боротьбі проти російського агресора та міжнародній підтримці, яку Україні надає весь світ, наближаючи спільну перемогу.\nПрагнення до свободи – визначальна цінність українців. Наша боротьба за незалежність та цілісність країни триває вже багато століть…\nПісля віроломного нападу 24 лютого 2022 року російських військ на Україну головною перешкодою для агресора та запорукою вільного розвитку держав і народів Європи стало протистояння, що відбувається на українській землі. Розуміючи це, на бік України став увесь цивілізований світ, який надає гуманітарну, економічну, безпекову та військову допомогу.",
-        "descr2": "На аверсі монети на дзеркальному тлі розміщено: малий Державний Герб України (у центрі), навколо якого зображено стилізовану символічну композицію єднання людей доброї волі в усьому світі – попарно з’єднані руки, замкнуті в коло та оповиті синьо-жовтою стрічкою (використано тамподрук); написи: УКРАЇНА (угорі півколом), рік карбування монет – 2022 (ліворуч), унизу півколом зазначено номінал – 5 ГРИВЕНЬ; праворуч  логотип Банкнотно-монетного двору Національного банку України.",
+        "descr2": "На аверсі монети на дзеркальному тлі розміщено: малий Державний Герб України (у центрі), навколо якого зображено стилізовану символічну композицію єднання людей доброї волі в усьому світі – попарно з’єднані руки, замкнуті в коло та оповиті синьо-жовтою стрічкою (використано тамподрук); написи: УКРАЇНА (угорі півколом), рік карбування монет – 2022 (ліворуч), унизу півколом зазначено номінал  – 10 ГРИВЕНЬ",
         "descr3": "На реверсі монети на дзеркальному тлі розміщено: угорі півколом написи двома мовами В ЄДНОСТІ – СИЛА/IN UNITY STRENGTH, під якими стилізована композиція з кольорових прапорів (використано тамподрук) країн, які надають Україні всебічну допомогу: США, Великобританії, Польщі, Канади, Естонії, Литви, Латвії, Італії, Швейцарії, Чехії, Швеції, Нідерландів, Німеччини, Франції, Японії.",
         "series": "Безсмертна моя Україно",
-        "nominal": "5",
+        "nominal": "10",
         "currency": "UAH",
         "date": "11.07.2022",
-        "material": "нейзильбер",
+        "material": "срібло",
         "country": "Україна",
         "tags": [
             "Безсмертна моя Україно"
         ],
         "quantity": 1,
         "comments": null,
+        "main_image": "C00a.png",
         "pdf": "",
         "characteristics": [
             [
@@ -3456,15 +3571,15 @@
             ],
             [
                 "Тираж (оголошений/фактичний), шт.",
-                "75000/75000"
+                "5000/5000"
             ],
             [
-                "Маса, г",
-                "16.54"
+                "Маса дорогоцінного металу в чистоті, г",
+                "31.1"
             ],
             [
                 "Діаметр, мм",
-                "35"
+                "38.6"
             ],
             [
                 "Категорія якості карбування",
@@ -3472,15 +3587,133 @@
             ],
             [
                 "Гурт",
-                "рифлений"
+                "гладкий із заглибленими написами"
             ]
         ],
         "images": [
-            "B88a.png",
-            "B88a0.png",
-            "B88r.png",
-            "B88r0.png"
+            "C00a.png",
+            "C00r.png",
+            "thumb.png"
+        ]
+    },
+    {
+        "code": "8A1",
+        "name": "Cувенірна банкнота `Сто гривень` (до 100-річчя подій Української революції 1917 - 1921 років)",
+        "descr1": "Сувенірна банкнота `Сто гривень` відтворює дизайн української банкноти номінальною вартістю 100 гривень, введеної в обіг 17 жовтня 1918 року.      Навесні 1918 року український уряд ухвалив рішення змінити назву вітчизняних грошей із `карбованців` на `гривні`, бажаючи підкреслити спадковість традицій державотворення з часів Київської Русі.                                       Найціннішою з мистецького погляду була купюра номіналом 100 гривень, розроблена і виконана Г. Нарбутом, на якій зображено пишний вінок із квітів, плодів, овочів, пшениці. Обабіч стоять жінка в національному вбранні зі снопом пшениці та серпом у руці і чоловік у фартуху, що спирається на молот, обвитий лавром. Написи зворотного боку включено у великий картуш із рослинно-плодового орнаменту, а по боках - декоративні колони. Увінчує всю композицію тризуб, обрамлений лавровим вінком.                 Банкнота виготовлена на папері з водяним знаком (зображення тризуба). Її  розміри: 80 х 170 мм.",
+        "descr2": "Основне зображення лицьового боку сувенірної банкноти - банкнота 1918  року номіналом 100 гривень (лицьовий бік), ліворуч від якої написи: НЕ Є ПЛАТІЖНИМ ЗАСОБОМ (вертикальний напис), УКРАЇНА (угорі), До подій/ Української/ революції/ 1917 - 1921 (унизу); тризуб - історичний символ, який розташований на банкноті 1918 року, та рік друкування банкноти - 2018.      Ліворуч від основного зображення (унизу) - оптично-змінне зображення 100 РОКІВ, колір якого під час зміни кута нахилу банкноти змінюється від золотистого до зеленого.      Біля правого краю сувенірної банкноти розміщено частину наскрізного елемента 1918 сіро-синього кольору та латентне зображення 100, приховане в коричнево-фіолетовому квадраті.",
+        "descr3": "Основне зображення зворотного боку сувенірної банкноти - банкнота 1918 року номіналом 100 гривень (зворотний бік), праворуч від якої написи: УКРАЇНА (угорі), До подій/ Української/ революції/ 1917 - 1921/100/ РОКІВ (унизу), ліворуч - вертикальний напис: НЕ Є ПЛАТІЖНИМ ЗАСОБОМ та частина наскрізного елемента 1918 синього кольору.      Стилізовані зображення українських прапорів під дією УФ-променів набувають синьо-жовтого світіння.",
+        "series": null,
+        "nominal": null,
+        "currency": null,
+        "date": "17.12.2018",
+        "material": "інший (банкнота)",
+        "country": "Україна",
+        "tags": [
+            null
         ],
-        "main_image": "B88a.png"
+        "quantity": 2,
+        "comments": null,
+        "main_image": "8A1a.png",
+        "pdf": "",
+        "characteristics": [
+            [
+                "Художник",
+                "Таран Володимир, Харук Олександр, Харук Сергій"
+            ],
+            [
+                "Тираж (оголошений/фактичний), шт.",
+                "100000/100000"
+            ]
+        ],
+        "images": [
+            "8A1a.png",
+            "8A1r.png",
+            "thumb.png"
+        ]
+    },
+    {
+        "code": "8AT",
+        "name": "`Сувенірна банкнота `Сто карбованців` (до 100-річчя подій Української революції 1917 – 1921 років)",
+        "descr1": "На відзначення 100-річчя подій Української революції 1917 - 1921 рр. і перших українських паперових грошей Національний банк України випустив сувенірну банкноту `Сто карбованців`, яка відтворює дизайн першої української банкноти - державного кредитового білета номіналом 100 карбованців (автор ескізу банкноти - Георгій Нарбут).      Зображення на цій банкноті тризуба стало одним із головних чинників утвердження великокняжого знака Володимира Великого як Державного герба УНР і майже на два місяці випередило відповідний закон Центральної Ради про Державний герб.            Під час виготовлення сувенірної банкноти використано спеціальний захищений папір, який складається з волокон льону - до 85% та бавовняної целюлози. Папір банкноти містить локальний водяний знак у вигляді тризуба, середній зуб якого увінчаний хрестом.      Розміри банкноти: - 80 х 170 мм.",
+        "descr2": "Основне зображення лицьового боку сувенірної банкноти - стилізований державний кредитовий білет 1917 року номіналом 100 карбованців (лицьовий бік), ліворуч від якого написи: УКРАЇНА (угорі), До подій Української революції 1917 - 1921 (унизу); над написом ліворуч - тризуб, історичний символ, який розташований на кредитовому білеті 1917 року.",
+        "descr3": "Основне зображення зворотного боку сувенірної банкноти - стилізований державний кредитовий білет 1917 року номіналом 100 карбованців (зворотний бік), праворуч від якого написи: УКРАЇНА (угорі), До подій Української революції 1917 - 1921 та 100/ РОКІВ (унизу).",
+        "series": null,
+        "nominal": null,
+        "currency": null,
+        "date": "29.12.2017",
+        "material": "інший (банкнота)",
+        "country": "Україна",
+        "tags": [
+            null
+        ],
+        "quantity": 2,
+        "comments": null,
+        "main_image": null,
+        "pdf": "",
+        "characteristics": [
+            [
+                "Художник",
+                "Таран Володимир, Харук Олександр, Харук Сергій"
+            ],
+            [
+                "Тираж (оголошений/фактичний), шт.",
+                "80000/80000"
+            ]
+        ],
+        "images": []
+    },
+    {
+        "code": "323",
+        "name": "15 років незалежності України  (c)",
+        "descr1": "Присвячена  15-й річниці прийняття Верховною Радою України 24 серпня 1991 року  Акта про незалежність України.",
+        "descr2": "На  аверсі   в намистовому колі зображено  композицію, що втілює ідею соборності України:    малий Державний Герб України     в оточенні рослинного орнаменту підтримують лев та козак з мушкетом, і кругові  написи:   НАЦІОНАЛЬНИЙ/ БАНК/ УКРАЇНИ/ 20/ ГРИВЕНЬ/ 2006/, а також позначення металу та його проби  Ag 925, маса в чистоті - 62,2 г,   логотип Монетного двору Національного банку України.",
+        "descr3": "На зворотному боці монет (реверсі) у намистовому колі на тлі карти України зображено будівлю Верховної Ради України  та кругові написи: УКРАЇНА/ 15 РОКІВ НЕЗАЛЕЖНОСТІ.",
+        "series": "Відродження української державності",
+        "nominal": "20",
+        "currency": "UAH",
+        "date": "18.08.2006",
+        "material": "срібло",
+        "country": "Україна",
+        "tags": [
+            "Відродження української державності"
+        ],
+        "quantity": 1,
+        "comments": null,
+        "main_image": "323a.png",
+        "pdf": "",
+        "characteristics": [
+            [
+                "Художник",
+                "Івахненко Олександр, Дем`яненко Володимир, Іваненко Святослав"
+            ],
+            [
+                "Скульптор",
+                "Дем`яненко Володимир, Іваненко Святослав"
+            ],
+            [
+                "Тираж (оголошений/фактичний), шт.",
+                "7000/7000"
+            ],
+            [
+                "Маса дорогоцінного металу в чистоті, г",
+                "62.2"
+            ],
+            [
+                "Діаметр, мм",
+                "50"
+            ],
+            [
+                "Категорія якості карбування",
+                "пруф"
+            ],
+            [
+                "Гурт",
+                "секторальне рифлення"
+            ]
+        ],
+        "images": [
+            "323a.png",
+            "323r.png"
+        ]
     }
 ]

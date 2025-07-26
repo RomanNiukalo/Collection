@@ -10,14 +10,10 @@ title: Coins
   {% for coin in coins %}
     <li style="margin-bottom: 20px;">
       <a href="{{ '/coins/' | append: coin.code | relative_url }}">
-        <strong>{{ coin.name }}</strong>
-      </a><br>
-      {% if coin.images and coin.images[0] %}
-        <img src="{{ '/assets/coins/' | append: coin.code | append: '/' | append: coin.images[0] | relative_url }}"
-             alt="{{ coin.name }}" style="max-width: 200px;">
-      {% endif %}
+        <img src="{{ '/assets/coins/' | append: coin.code | append: '/thumb.png' | relative_url }}"
+             alt="{{ coin.name }}" style="max-width: 300px;">
+        <strong>{{ coin.name }}</strong><br>
+      </a>
     </li>
   {% endfor %}
 </ul>
-
-

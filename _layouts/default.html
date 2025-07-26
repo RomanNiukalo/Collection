@@ -11,12 +11,14 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{% if page.layout == "coin" %}
-    {% assign coin = site.data.coins | where: "code", page.code | first %}
-    {{ coin.name }}
-  {% else %}
-    {{ page.title }}
-  {% endif %}</h1>
+      <h1 class="project-name">
+        {% if page.layout == "coin" %}
+          {% assign coin = site.data.coins | where: "code", page.code | first %}
+          {{ coin.name }}
+        {% else %}
+          {{ page.title }}
+        {% endif %}
+      </h1>
     </header>
 
     <main id="content" class="main-content" role="main">

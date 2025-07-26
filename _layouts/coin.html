@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% assign coin = site.data.coins | where: "code", page.code | first %}
-{% assign page_title = coin.name | default: "Coin" %}
+{% assign page.title = coin.name | default: "Coin" %}
 
 {% if coin %}
   <h1>{{ coin.name }}</h1>

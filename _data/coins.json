@@ -52,8 +52,7 @@
             "C88a.png",
             "C88a0.png",
             "C88r.png",
-            "C88r0.png",
-            "thumb.png"
+            "C88r0.png"
         ]
     },
     {
@@ -97,8 +96,7 @@
             "8GKa.png",
             "8GKa0.png",
             "8GKr.png",
-            "8GKr0.png",
-            "thumb.png"
+            "8GKr0.png"
         ]
     },
     {
@@ -154,8 +152,7 @@
             "C89a.png",
             "C89a0.png",
             "C89r.png",
-            "C89r0.png",
-            "thumb.png"
+            "C89r0.png"
         ]
     },
     {
@@ -211,8 +208,7 @@
             "C77a.png",
             "C77a0.png",
             "C77r.png",
-            "C77r0.png",
-            "thumb.png"
+            "C77r0.png"
         ]
     },
     {
@@ -268,8 +264,7 @@
             "C74a.png",
             "C74a0.png",
             "C74r.png",
-            "C74r0.png",
-            "thumb.png"
+            "C74r0.png"
         ]
     },
     {
@@ -325,8 +320,7 @@
             "C75a.png",
             "C75a0.png",
             "C75r.png",
-            "C75r0.png",
-            "thumb.png"
+            "C75r0.png"
         ]
     },
     {
@@ -382,8 +376,7 @@
             "C73a.png",
             "C73a0.png",
             "C73r.png",
-            "C73r0.png",
-            "thumb.png"
+            "C73r0.png"
         ]
     },
     {
@@ -437,8 +430,7 @@
         ],
         "images": [
             "C87a.png",
-            "C87r.png",
-            "thumb.png"
+            "C87r.png"
         ]
     },
     {
@@ -490,8 +482,7 @@
             "C72a.png",
             "C72a0.png",
             "C72r.png",
-            "C72r0.png",
-            "thumb.png"
+            "C72r0.png"
         ]
     },
     {
@@ -539,8 +530,7 @@
             "8GIa.png",
             "8GIa0.png",
             "8GIr.png",
-            "8GIr0.png",
-            "thumb.png"
+            "8GIr0.png"
         ]
     },
     {
@@ -596,8 +586,7 @@
             "C67a.png",
             "C67a0.png",
             "C67r.png",
-            "C67r0.png",
-            "thumb.png"
+            "C67r0.png"
         ]
     },
     {
@@ -653,8 +642,7 @@
             "C69a.png",
             "C69a0.png",
             "C69r.png",
-            "C69r0.png",
-            "thumb.png"
+            "C69r0.png"
         ]
     },
     {
@@ -710,8 +698,7 @@
             "C70a.png",
             "C70a0.png",
             "C70r.png",
-            "C70r0.png",
-            "thumb.png"
+            "C70r0.png"
         ]
     },
     {
@@ -763,8 +750,7 @@
             "C68a.png",
             "C68a0.png",
             "C68r.png",
-            "C68r0.png",
-            "thumb.png"
+            "C68r0.png"
         ]
     },
     {
@@ -820,8 +806,7 @@
             "C66a.png",
             "C66a0.png",
             "C66r.png",
-            "C66r0.png",
-            "thumb.png"
+            "C66r0.png"
         ]
     },
     {
@@ -877,8 +862,7 @@
             "C57a.png",
             "C57a0.png",
             "C57r.png",
-            "C57r0.png",
-            "thumb.png"
+            "C57r0.png"
         ]
     },
     {
@@ -930,8 +914,7 @@
             "C51a.png",
             "C51a0.png",
             "C51r.png",
-            "C51r0.png",
-            "thumb.png"
+            "C51r0.png"
         ]
     },
     {
@@ -979,8 +962,7 @@
             "C60a.png",
             "C60a0.png",
             "C60r.png",
-            "C60r0.png",
-            "thumb.png"
+            "C60r0.png"
         ]
     },
     {
@@ -1001,7 +983,7 @@
         "quantity": 2,
         "comments": null,
         "main_image": "C56a.png",
-        "pdf": "",
+        "pdf": "C55u.pdf",
         "characteristics": [
             [
                 "Художник",
@@ -1036,8 +1018,7 @@
             "C56a.png",
             "C56a0.png",
             "C56r.png",
-            "C56r0.png",
-            "thumb.png"
+            "C56r0.png"
         ]
     },
     {
@@ -1093,8 +1074,7 @@
             "C62a.png",
             "C62a0.png",
             "C62r.png",
-            "C62r0.png",
-            "thumb.png"
+            "C62r0.png"
         ]
     },
     {
@@ -1150,8 +1130,7 @@
             "C63a.png",
             "C63a0.png",
             "C63r.png",
-            "C63r0.png",
-            "thumb.png"
+            "C63r0.png"
         ]
     },
     {
@@ -1207,8 +1186,7 @@
             "C64a.png",
             "C64a0.png",
             "C64r.png",
-            "C64r0.png",
-            "thumb.png"
+            "C64r0.png"
         ]
     },
     {
@@ -1252,8 +1230,7 @@
             "8F8a.png",
             "8F8a0.png",
             "8F8r.png",
-            "8F8r0.png",
-            "thumb.png"
+            "8F8r0.png"
         ]
     },
     {
@@ -1309,8 +1286,7 @@
             "C61a.png",
             "C61a0.png",
             "C61r.png",
-            "C61r0.png",
-            "thumb.png"
+            "C61r0.png"
         ]
     },
     {
@@ -1366,8 +1342,7 @@
             "C54a.png",
             "C54a0.png",
             "C54r.png",
-            "C54r0.png",
-            "thumb.png"
+            "C54r0.png"
         ]
     },
     {
@@ -1388,7 +1363,7 @@
         "quantity": 2,
         "comments": null,
         "main_image": "C59a.png",
-        "pdf": "",
+        "pdf": "C58u.pdf",
         "characteristics": [
             [
                 "Художник",
@@ -1423,8 +1398,7 @@
             "C59a.png",
             "C59a0.png",
             "C59r.png",
-            "C59r0.png",
-            "thumb.png"
+            "C59r0.png"
         ]
     },
     {
@@ -1460,8 +1434,7 @@
             "8F7a.png",
             "8F7a0.png",
             "8F7r.png",
-            "8F7r0.png",
-            "thumb.png"
+            "8F7r0.png"
         ]
     },
     {
@@ -1515,8 +1488,7 @@
         ],
         "images": [
             "C49a.png",
-            "C49r.png",
-            "thumb.png"
+            "C49r.png"
         ]
     },
     {
@@ -1570,8 +1542,7 @@
         ],
         "images": [
             "C50a.png",
-            "C50r.png",
-            "thumb.png"
+            "C50r.png"
         ]
     },
     {
@@ -1590,7 +1561,7 @@
             "Видатні особистості України"
         ],
         "quantity": 2,
-        "comments": null,
+        "comments": "Одна без капсули",
         "main_image": "C48a.png",
         "pdf": "C48u.pdf",
         "characteristics": [
@@ -1625,8 +1596,7 @@
         ],
         "images": [
             "C48a.png",
-            "C48r.png",
-            "thumb.png"
+            "C48r.png"
         ]
     },
     {
@@ -1670,8 +1640,7 @@
             "8F5a.png",
             "8F5a0.png",
             "8F5r.png",
-            "8F5r0.png",
-            "thumb.png"
+            "8F5r0.png"
         ]
     },
     {
@@ -1692,7 +1661,7 @@
         "quantity": 2,
         "comments": null,
         "main_image": "C47a.png",
-        "pdf": "",
+        "pdf": "C46u.pdf",
         "characteristics": [
             [
                 "Художник",
@@ -1721,8 +1690,7 @@
         ],
         "images": [
             "C47a.png",
-            "C47r.png",
-            "thumb.png"
+            "C47r.png"
         ]
     },
     {
@@ -1766,8 +1734,7 @@
             "8F4a.png",
             "8F4a0.png",
             "8F4r.png",
-            "8F4r0.png",
-            "thumb.png"
+            "8F4r0.png"
         ]
     },
     {
@@ -1788,7 +1755,7 @@
         "quantity": 2,
         "comments": null,
         "main_image": "C45a.png",
-        "pdf": "",
+        "pdf": "C44u.pdf",
         "characteristics": [
             [
                 "Художник",
@@ -1823,8 +1790,7 @@
             "C45a.png",
             "C45a0.png",
             "C45r.png",
-            "C45r0.png",
-            "thumb.png"
+            "C45r0.png"
         ]
     },
     {
@@ -1878,8 +1844,7 @@
         ],
         "images": [
             "C43a.png",
-            "C43r.png",
-            "thumb.png"
+            "C43r.png"
         ]
     },
     {
@@ -1935,8 +1900,7 @@
             "C38a.png",
             "C38a0.png",
             "C38r.png",
-            "C38r0.png",
-            "thumb.png"
+            "C38r0.png"
         ]
     },
     {
@@ -1990,8 +1954,7 @@
         ],
         "images": [
             "C42a.png",
-            "C42r.png",
-            "thumb.png"
+            "C42r.png"
         ]
     },
     {
@@ -2012,7 +1975,7 @@
         "quantity": 2,
         "comments": null,
         "main_image": "C52a.png",
-        "pdf": "",
+        "pdf": "C42u.pdf",
         "characteristics": [
             [
                 "Художник",
@@ -2047,8 +2010,7 @@
             "C52a.png",
             "C52a0.png",
             "C52r.png",
-            "C52r0.png",
-            "thumb.png"
+            "C52r0.png"
         ]
     },
     {
@@ -2102,8 +2064,7 @@
         ],
         "images": [
             "C41a.png",
-            "C41r.png",
-            "thumb.png"
+            "C41r.png"
         ]
     },
     {
@@ -2153,8 +2114,7 @@
         ],
         "images": [
             "C36a.png",
-            "C36r.png",
-            "thumb.png"
+            "C36r.png"
         ]
     },
     {
@@ -2210,8 +2170,7 @@
             "C39a.png",
             "C39a0.png",
             "C39r.png",
-            "C39r0.png",
-            "thumb.png"
+            "C39r0.png"
         ]
     },
     {
@@ -2251,8 +2210,7 @@
             "8FWa.png",
             "8FWa0.png",
             "8FWr.png",
-            "8FWr0.png",
-            "thumb.png"
+            "8FWr0.png"
         ]
     },
     {
@@ -2304,8 +2262,7 @@
             "C37a.png",
             "C37a0.png",
             "C37r.png",
-            "C37r0.png",
-            "thumb.png"
+            "C37r0.png"
         ]
     },
     {
@@ -2361,8 +2318,7 @@
             "8FTr.png",
             "8FTr0.png",
             "8FTr1.png",
-            "8FTr2.png",
-            "thumb.png"
+            "8FTr2.png"
         ]
     },
     {
@@ -2412,8 +2368,7 @@
         ],
         "images": [
             "C33a.png",
-            "C33r.png",
-            "thumb.png"
+            "C33r.png"
         ]
     },
     {
@@ -2453,8 +2408,7 @@
             "8FZa.png",
             "8FZa0.png",
             "8FZr.png",
-            "8FZr0.png",
-            "thumb.png"
+            "8FZr0.png"
         ]
     },
     {
@@ -2508,8 +2462,7 @@
         ],
         "images": [
             "C16a.png",
-            "C16r.png",
-            "thumb.png"
+            "C16r.png"
         ]
     },
     {
@@ -2565,8 +2518,7 @@
             "C20a.png",
             "C20a0.png",
             "C20r.png",
-            "C20r0.png",
-            "thumb.png"
+            "C20r0.png"
         ]
     },
     {
@@ -2622,8 +2574,7 @@
             "C26a.png",
             "C26a0.png",
             "C26r.png",
-            "C26r0.png",
-            "thumb.png"
+            "C26r0.png"
         ]
     },
     {
@@ -2667,8 +2618,7 @@
             "8FJa.png",
             "8FJa0.png",
             "8FJr.png",
-            "8FJr0.png",
-            "thumb.png"
+            "8FJr0.png"
         ]
     },
     {
@@ -2689,7 +2639,7 @@
         "quantity": 1,
         "comments": null,
         "main_image": "C15a.png",
-        "pdf": "",
+        "pdf": "C31u.pdf",
         "characteristics": [
             [
                 "Художник",
@@ -2724,8 +2674,7 @@
             "C15a.png",
             "C15a0.png",
             "C15r.png",
-            "C15r0.png",
-            "thumb.png"
+            "C15r0.png"
         ]
     },
     {
@@ -2746,7 +2695,7 @@
         "quantity": 1,
         "comments": null,
         "main_image": "C24a.png",
-        "pdf": "",
+        "pdf": "C23u.pdf",
         "characteristics": [
             [
                 "Художник",
@@ -2781,8 +2730,7 @@
             "C24a.png",
             "C24a0.png",
             "C24r.png",
-            "C24r0.png",
-            "thumb.png"
+            "C24r0.png"
         ]
     },
     {
@@ -2836,8 +2784,7 @@
         ],
         "images": [
             "C22a.png",
-            "C22r.png",
-            "thumb.png"
+            "C22r.png"
         ]
     },
     {
@@ -2856,7 +2803,7 @@
             "Інші монети"
         ],
         "quantity": 2,
-        "comments": null,
+        "comments": "Одна без капсули",
         "main_image": "C32a.png",
         "pdf": "C32u.pdf",
         "characteristics": [
@@ -2893,8 +2840,7 @@
             "C32a.png",
             "C32a0.png",
             "C32r.png",
-            "C32r0.png",
-            "thumb.png"
+            "C32r0.png"
         ]
     },
     {
@@ -2944,8 +2890,7 @@
         ],
         "images": [
             "C35a.png",
-            "C35r.png",
-            "thumb.png"
+            "C35r.png"
         ]
     },
     {
@@ -3001,8 +2946,7 @@
             "C13a.png",
             "C13a0.png",
             "C13r.png",
-            "C13r0.png",
-            "thumb.png"
+            "C13r0.png"
         ]
     },
     {
@@ -3042,8 +2986,7 @@
             "8FLa.png",
             "8FLa0.png",
             "8FLr.png",
-            "8FLr0.png",
-            "thumb.png"
+            "8FLr0.png"
         ]
     },
     {
@@ -3064,7 +3007,7 @@
         "quantity": 1,
         "comments": null,
         "main_image": "C29a.png",
-        "pdf": "",
+        "pdf": "C30u.pdf",
         "characteristics": [
             [
                 "Художник",
@@ -3097,8 +3040,7 @@
         ],
         "images": [
             "C29a.png",
-            "C29r.png",
-            "thumb.png"
+            "C29r.png"
         ]
     },
     {
@@ -3154,8 +3096,7 @@
             "C30a.png",
             "C30a0.png",
             "C30r.png",
-            "C30r0.png",
-            "thumb.png"
+            "C30r0.png"
         ]
     },
     {
@@ -3195,8 +3136,7 @@
             "8FKa.png",
             "8FKa0.png",
             "8FKr.png",
-            "8FKr0.png",
-            "thumb.png"
+            "8FKr0.png"
         ]
     },
     {
@@ -3231,8 +3171,7 @@
         "images": [
             "8E1a.png",
             "8E1r.png",
-            "8E1r0.png",
-            "thumb.png"
+            "8E1r0.png"
         ]
     },
     {
@@ -3269,8 +3208,7 @@
             "8EZa0.png",
             "8EZa1.png",
             "8EZr.png",
-            "8EZr0.png",
-            "thumb.png"
+            "8EZr0.png"
         ]
     },
     {
@@ -3327,8 +3265,7 @@
             "8E0r.png",
             "8E0r0.png",
             "8E0r1.png",
-            "8E0r2.png",
-            "thumb.png"
+            "8E0r2.png"
         ]
     },
     {
@@ -3382,8 +3319,7 @@
         ],
         "images": [
             "C07a.png",
-            "C07r.png",
-            "thumb.png"
+            "C07r.png"
         ]
     },
     {
@@ -3404,7 +3340,7 @@
         "quantity": 2,
         "comments": null,
         "main_image": "C10a.png",
-        "pdf": "",
+        "pdf": "C08u.pdf",
         "characteristics": [
             [
                 "Художник",
@@ -3439,8 +3375,7 @@
             "C10a.png",
             "C10a0.png",
             "C10r.png",
-            "C10r0.png",
-            "thumb.png"
+            "C10r0.png"
         ]
     },
     {
@@ -3480,8 +3415,7 @@
             "8FFa.png",
             "8FFa0.png",
             "8FFr.png",
-            "8FFr0.png",
-            "thumb.png"
+            "8FFr0.png"
         ]
     },
     {
@@ -3537,8 +3471,7 @@
             "C02a.png",
             "C02a0.png",
             "C02r.png",
-            "C02r0.png",
-            "thumb.png"
+            "C02r0.png"
         ]
     },
     {
@@ -3592,8 +3525,7 @@
         ],
         "images": [
             "C00a.png",
-            "C00r.png",
-            "thumb.png"
+            "C00r.png"
         ]
     },
     {
@@ -3628,7 +3560,8 @@
         "images": [
             "8A1a.png",
             "8A1r.png",
-            "thumb.png"
+            "upak100griv_lice.webp",
+            "upak100griv_zvornewinternet.webp"
         ]
     },
     {
@@ -3648,7 +3581,7 @@
         ],
         "quantity": 2,
         "comments": null,
-        "main_image": null,
+        "main_image": "100_suvenirna_banknota_av_internet_big.webp",
         "pdf": "",
         "characteristics": [
             [
@@ -3660,7 +3593,12 @@
                 "80000/80000"
             ]
         ],
-        "images": []
+        "images": [
+            "100_r_podiy_ukr_rev_suvenirna_banknota_v_upakovke-1.webp",
+            "100_r_podiy_ukr_rev_suvenirna_banknota_v_upakovke-2.webp",
+            "100_suvenirna_banknota_av_internet_big.webp",
+            "100_suvenirna_banknota_rev_internet_big.webp"
+        ]
     },
     {
         "code": "323",

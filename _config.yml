@@ -14,7 +14,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-collections:
-  coins:
-    output: true
-    permalink: /coins/:name/
+# collections:
+#   coins:
+#     output: true
+#     permalink: /coins/:name/

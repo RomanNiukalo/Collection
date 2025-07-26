@@ -1,0 +1,20 @@
+---
+layout: default
+title: Stamps
+---
+
+<h1>Stamps List</h1>
+
+<p>Content would be added later(</p>
+<ul>
+  {% assign stamps = site.data.stamps %}
+  {% for stamp in stamps %}
+    <li style="margin-bottom: 20px;">
+      <a href="{{ '/stamps/' | append: stamp.code | relative_url }}">
+        <img src="{{ '/assets/coins/' | append: coin.code | append: '/thumb.png' | relative_url }}"
+             alt="{{ coin.name }}" style="max-width: 300px;">
+        <strong>{{ coin.name }}</strong><br>
+      </a>
+    </li>
+  {% endfor %}
+</ul>

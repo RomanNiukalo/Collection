@@ -1,0 +1,25 @@
+/* Hide GitHub button */
+.github-corner {
+  display: none !important;
+}
+
+/* Move title text into header */
+header.page-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 120px; /* Reduce header height */
+  text-align: center;
+}
+
+/* Remove margin/padding below header */
+main[role="main"] {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+/* Optional: remove main content padding if needed */
+.container-lg {
+  padding: 0 1rem;
+}

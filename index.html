@@ -10,23 +10,33 @@ title: Welcome to Our Collection
         padding: 15px;
         text-align: center;
         transition: 0.2s;
+      " 
+      onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.15)';"
+      onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';">
+
+  <!-- Coins -->
+  <a href="{{ '/coins' | relative_url }}" style="text-align: center; text-decoration: none;">
+    <img src="{{ 'assets/coins/C49/thumb.png' | relative_url }}" alt="Coins"
+      style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <div style="margin-top: 10px; font-size: 18px; font-weight: bold;">Coins</div>
+  </a>
+</div>
+
+<div style="
+        background: #ffffff;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        padding: 15px;
+        text-align: center;
+        transition: 0.2s;
       "
       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.15)';"
-      onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';"
-    >
+      onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';">
 
-    <!-- Coins -->
-    <a href="{{ '/coins' | relative_url }}" style="text-align: center; text-decoration: none;">
-      <img src="{{ 'assets/coins/C49/thumb.png' | relative_url }}" alt="Coins"
-           style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <div style="margin-top: 10px; font-size: 18px; font-weight: bold;">Coins</div>
-    </a>
-
-    <!-- Stamps -->
-    <a href="{{ '/stamps' | relative_url }}" style="text-align: center; text-decoration: none;">
-      <img src="{{ 'assets/coins/C49/thumb.png' | relative_url }}" alt="Stamps"
-           style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <div style="margin-top: 10px; font-size: 18px; font-weight: bold;">Stamps</div>
-    </a>
-
-  </div>
+  <!-- Stamps -->
+  <a href="{{ '/stamps' | relative_url }}" style="text-align: center; text-decoration: none;">
+    <img src="{{ 'assets/coins/C49/thumb.png' | relative_url }}" alt="Stamps"
+      style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <div style="margin-top: 10px; font-size: 18px; font-weight: bold;">Stamps</div>
+  </a>
+</div>

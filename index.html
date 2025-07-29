@@ -8,6 +8,7 @@ title: Welcome to Our Collection
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   gap: 20px;
   margin-top: 30px;
+  justify-items: center;
 ">
 
   <div style="
@@ -22,10 +23,10 @@ title: Welcome to Our Collection
         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';">
 
     <!-- Coins -->
-    <a href="{{ '/coins' | relative_url }}" style="text-align: center; text-decoration: none;">
+    <a href="{{ '/coins' | relative_url }}" style="text-decoration: none; color: inherit;">
       <img src="{{ 'assets/coins/C49/thumb.png' | relative_url }}" alt="Coins"
-        style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <div style="margin-top: 10px; font-size: 18px; font-weight: bold;">Coins</div>
+        style="max-width: 100%; border-radius: 6px; margin-bottom: 10px;">
+      <h3 style="margin: 10px 0 5px;">Coins</h3>
     </a>
   </div>
 
@@ -41,10 +42,10 @@ title: Welcome to Our Collection
         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';">
 
     <!-- Stamps -->
-    <a href="{{ '/stamps' | relative_url }}" style="text-align: center; text-decoration: none;">
+    <a href="{{ '/stamps' | relative_url }}" style="text-decoration: none; color: inherit;">
       <img src="{{ 'assets/coins/C49/thumb.png' | relative_url }}" alt="Stamps"
-        style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <div style="margin-top: 10px; font-size: 18px; font-weight: bold;">Stamps</div>
+        style="max-width: 100%; border-radius: 6px; margin-bottom: 10px;">
+      <h3 style="margin: 10px 0 5px;">Stamps</h3>
     </a>
   </div>
 </div>

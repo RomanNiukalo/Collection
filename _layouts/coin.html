@@ -3,13 +3,20 @@ layout: default
 ---
 
 {% assign coin = site.data.coins | where: "code", page.code | first %}
-<!-- Image Carousel -->
-<div style="max-width: 300px; margin: 0 auto 30px; position: relative;">
 
+<!-- Image Carousel -->
+<div style="max-width: 320px; height: 320px; margin: 0 auto 30px; position: relative; overflow: hidden;">
   <img id="coinCarousel"
        src="{{ '/assets/coins/' | append: coin.code | append: '/' | append: coin.images[0] | relative_url }}"
        alt="{{ coin.name }}"
-       style="width: 100%; border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+       style="
+         width: 100%;
+         height: 100%;
+         object-fit: contain;
+         border-radius: 6px;
+         box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+         transition: opacity 0.3s ease;
+       ">
 
   <!-- Prev / Next buttons -->
   <button onclick="prevImage()" style="
@@ -36,11 +43,25 @@ layout: default
 
   function showImage(index) {
     current = (index + images.length) % images.length;
-    carousel.src = images[current];
+    carousel.style.opacity = 0;
+    setTimeout(() => {
+      carousel.src = images[current];
+      carousel.style.opacity = 1;
+    }, 200);
   }
 
   function prevImage() { showImage(current - 1); }
   function nextImage() { showImage(current + 1); }
+
+  // Swipe support for mobile
+  let startX = 0;
+  carousel.addEventListener('touchstart', e => startX = e.touches[0].clientX);
+  carousel.addEventListener('touchend', e => {
+    let diff = e.changedTouches[0].clientX - startX;
+    if (Math.abs(diff) > 50) {  // swipe threshold
+      if (diff > 0) prevImage(); else nextImage();
+    }
+  });
 </script>
 
 <!-- Descriptions -->
@@ -93,7 +114,7 @@ layout: default
     {% assign current_index = forloop.index0 %}
   {% endif %}
 {% endfor %}
-
+<p>{{ current_index + 1 }} of {{ coins.size }}</p>
 <div style="display: flex; justify-content: space-between; max-width: 800px; margin: 40px auto 0;">
   <div>
     {% if current_index > 0 %}

@@ -15,21 +15,16 @@ layout: default
          object-fit: contain;
          border-radius: 6px;
          box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-         transition: opacity 0.3s ease;
-       ">
+         transition: opacity 0.4s ease;
+         position: absolute;
+         top: 0; left: 0;
+      ">
+</div>
 
-  <!-- Prev / Next buttons -->
-  <button onclick="prevImage()" style="
-      position: absolute; top: 50%; left: 0;
-      transform: translateY(-50%);
-      background: rgba(0,0,0,0.5); color: white;
-      border: none; padding: 5px 10px; cursor: pointer;">‹</button>
-
-  <button onclick="nextImage()" style="
-      position: absolute; top: 50%; right: 0;
-      transform: translateY(-50%);
-      background: rgba(0,0,0,0.5); color: white;
-      border: none; padding: 5px 10px; cursor: pointer;">›</button>
+<!-- Prev / Next buttons -->
+<div style="text-align:center; margin-bottom: 20px;">
+  <button onclick="prevImage()" style="padding: 5px 15px; margin: 0 10px;">‹ Prev</button>
+  <button onclick="nextImage()" style="padding: 5px 15px; margin: 0 10px;">Next ›</button>
 </div>
 
 <script>
@@ -38,16 +33,28 @@ layout: default
       "{{ '/assets/coins/' | append: coin.code | append: '/' | append: image | relative_url }}"{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ];
-  let current = 0;
+
   const carousel = document.getElementById("coinCarousel");
+  let current = 0;
+
+  // Preload all images to prevent blinking
+  const preloaded = [];
+  images.forEach(src => {
+    const img = new Image();
+    img.src = src;
+    preloaded.push(img);
+  });
 
   function showImage(index) {
-    current = (index + images.length) % images.length;
-    carousel.style.opacity = 0;
+    const nextIndex = (index + images.length) % images.length;
+    if (nextIndex === current) return; // no change
+
+    carousel.style.opacity = 0; // start fade-out
     setTimeout(() => {
-      carousel.src = images[current];
-      carousel.style.opacity = 1;
-    }, 200);
+      current = nextIndex;
+      carousel.src = images[current]; // change after fade-out
+      carousel.style.opacity = 1; // fade in
+    }, 200); // half of transition duration
   }
 
   function prevImage() { showImage(current - 1); }
@@ -85,10 +92,11 @@ layout: default
 {% endif %}
 
 <!-- Tags / Series -->
-{% if coin.tags %}
+{% assign valid_tags = coin.tags | compact | reject: "" %}
+{% if valid_tags and valid_tags.size > 0 %}
   <div style="text-align:center; margin: 30px 0;">
     <strong>Tags:</strong>
-    {% for tag in coin.tags %}
+    {% for tag in valid_tags %}
       <span style="background: #eef; padding: 5px 10px; margin: 5px; border-radius: 12px; font-size: 14px;">
         {{ tag }}
       </span>

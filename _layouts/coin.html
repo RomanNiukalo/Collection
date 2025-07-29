@@ -21,10 +21,32 @@ layout: default
       ">
 </div>
 
-<!-- Prev / Next buttons -->
-<div style="text-align:center; margin-bottom: 20px;">
-  <button onclick="prevImage()" style="padding: 5px 15px; margin: 0 10px;">‹ Prev</button>
-  <button onclick="nextImage()" style="padding: 5px 15px; margin: 0 10px;">Next ›</button>
+ <!-- Prev / Next arrows -->
+  <button onclick="prevImage()" style="
+      position: absolute; top: 50%; left: 5px;
+      transform: translateY(-50%);
+      background: rgba(0,0,0,0.4);
+      color: white;
+      font-size: 24px;
+      border: none;
+      border-radius: 50%;
+      width: 36px; height: 36px;
+      cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+  ">‹</button>
+
+  <button onclick="nextImage()" style="
+      position: absolute; top: 50%; right: 5px;
+      transform: translateY(-50%);
+      background: rgba(0,0,0,0.4);
+      color: white;
+      font-size: 24px;
+      border: none;
+      border-radius: 50%;
+      width: 36px; height: 36px;
+      cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+  ">›</button>
 </div>
 
 <script>

@@ -76,7 +76,7 @@ layout: default
 {% endif %}
 
 <!-- PDF Link -->
-{% if coin.pdf %}
+{% if coin.pdf and coin.pdf != "" %}
   <p style="text-align:center; margin-top: 30px;">
     <a href="{{ '/assets/coins/' | append: coin.code | append: '/' | append: coin.pdf | relative_url }}"
        target="_blank"
@@ -102,11 +102,6 @@ layout: default
     {% endif %}
   </div>
 </div>
-
-<!-- Back link -->
-<p style="text-align:center; margin-top: 40px;">
-  <a href="{{ '/coins' | relative_url }}">Back to Coin List</a>
-</p>
 
 <!-- Back link -->
 <p style="text-align:center; margin-top: 40px;">

@@ -3,7 +3,17 @@ layout: default
 title: Welcome to Our Collection
 ---
 
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 30px;">
+<div style="
+        background: #ffffff;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        padding: 15px;
+        text-align: center;
+        transition: 0.2s;
+      "
+      onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.15)';"
+      onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';"
+    >
 
     <!-- Coins -->
     <a href="{{ '/coins' | relative_url }}" style="text-align: center; text-decoration: none;">

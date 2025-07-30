@@ -179,6 +179,7 @@ layout: default
 {% assign coins = site.data.coins %}
 {% assign current_index = coins | map: "code" | index_of: page.code %}
 <p>1 {{ current_index | plus: 1 }} of {{ coins.size }}</p>
+<p>{{coins | map: "code"}}</p>
 {% assign current_index = -1 %}
 
 {% for c in coins %}

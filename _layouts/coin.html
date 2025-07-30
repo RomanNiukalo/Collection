@@ -152,9 +152,10 @@ layout: default
 {% endif %}
 
 <!-- Buy Info -->
-{% if coin.buy_price %}
-  <p><strong>Buy Price:</strong> 
-    <span id="buy-price" style="display:none;">{{ coin.buy_price }}</span>
+{% if coin.buy_info %}
+  <p><strong>Buy Info:</strong> 
+    <span id="buy-price" style="display:none;">{{ coin.buy_info.price }}</span>
+    <span id="buy-date" style="display:none;">{{ coin.buy_info.date }}</span>
   </p>
 {% endif %}
 

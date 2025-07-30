@@ -16,6 +16,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C88a.png",
         "pdf": "C88u.pdf",
         "characteristics": [
@@ -72,6 +77,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8GKa.png",
         "pdf": "8GKu.pdf",
         "characteristics": [
@@ -116,6 +126,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C89a.png",
         "pdf": "C89u.pdf",
         "characteristics": [
@@ -172,6 +187,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C77a.png",
         "pdf": "C77u.pdf",
         "characteristics": [
@@ -228,6 +248,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C74a.png",
         "pdf": "C74u.pdf",
         "characteristics": [
@@ -284,6 +309,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C75a.png",
         "pdf": "C75u.pdf",
         "characteristics": [
@@ -340,6 +370,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C73a.png",
         "pdf": "C73u.pdf",
         "characteristics": [
@@ -396,6 +431,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C87a.png",
         "pdf": "C87u.pdf",
         "characteristics": [
@@ -450,6 +490,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C72a.png",
         "pdf": "C72u.pdf",
         "characteristics": [
@@ -502,6 +547,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8GIa.png",
         "pdf": "8GIu.pdf",
         "characteristics": [
@@ -550,6 +600,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C67a.png",
         "pdf": "C67u.pdf",
         "characteristics": [
@@ -606,6 +661,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C69a.png",
         "pdf": "C69u.pdf",
         "characteristics": [
@@ -662,6 +722,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C70a.png",
         "pdf": "C70u.pdf",
         "characteristics": [
@@ -718,6 +783,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C68a.png",
         "pdf": "C68u.pdf",
         "characteristics": [
@@ -770,6 +840,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C66a.png",
         "pdf": "C66u.pdf",
         "characteristics": [
@@ -810,6 +885,69 @@
         ]
     },
     {
+        "code": "INV_AM25",
+        "name": "Архістратиг Михаїл 2025",
+        "descr1": "Архістратиг Михаїл 1 гривня зразка 2020 року. Інвестиційні монети – особлива група сучасної монетної продукції, яка призначена для вкладання коштів широким колом інвесторів, в тому числі приватними особами. Продукція є засобом платежу та одночасно належить до категорії банківських металів.",
+        "descr2": "На аверсі монети розміщено: угорі малий Державний Герб України, під яким напис – УКРАЇНА, по колу на тлі патерну зі стилізованих давньоруських київських гривен – вагової, лічильної та монетної одиниці зображено стилізований лавровий вінок, унизу номінал – 1 ₴; у центрі у восьмикутному картуші на дзеркальному тлі зображено логотип, під яким написи: НАЦІОНАЛЬНИЙ/БАНК УКРАЇНИ/ рік карбування – 2020/ та позначення металу, його проби і маси в чистоті – Ag 999,9 31,1. Унизу ліворуч розміщено логотип Банкнотно-монетного двору Національного банку України.",
+        "descr3": "На реверсі монети зображено Архістратига Михаїла - архангела, який є одним з найбільш шанованих біблійних персонажів, переможцем зла, покровителем воїнів, які борються за праведне діло; по колу розміщено напис …ЗА НАС І ДУШІ ПРАВЕДНИХ, І СИЛА АРХІСТРАТИГА МИХАЇЛА (рядки з поеми Т. Г. Шевченка \"Гайдамаки\").",
+        "series": "Інвестиційні монети",
+        "nominal": 1,
+        "currency": "UAH",
+        "date": 2025,
+        "material": "срібло",
+        "country": "Україна",
+        "tags": [
+            "Інвестиційні монети"
+        ],
+        "quantity": 1,
+        "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 3580,
+            "date": null
+        },
+        "main_image": "arhistratig-silver-2021-r(2).webp",
+        "pdf": "",
+        "characteristics": [
+            [
+                "Маса дорогоцінного металу в чистоті, г",
+                "31.1"
+            ],
+            [
+                "Діаметр, мм",
+                "38.6"
+            ],
+            [
+                "Товщина монети з гуртом, мм",
+                "3.0"
+            ],
+            [
+                "Категорія якості карбування",
+                "анциркулейтед"
+            ],
+            [
+                "Гурт",
+                "рифлений"
+            ],
+            [
+                "Художник",
+                "Таран Володимир, Харук Олександр, Харук Сергій"
+            ],
+            [
+                "Скульптор",
+                "Іваненко Святослав, програмне моделювання – Віталій Андріянов, Юрій Лук’янов"
+            ],
+            [
+                "Роки карбування та тираж",
+                "2020 (31 000 шт.), 2021 (20 000 шт.), 2022 (10 000 шт.), 2023 (10 000 шт.), 2024 (5 000 шт.), 2025 (30 000 шт.)"
+            ]
+        ],
+        "images": [
+            "arhistratig-silver-2021-r(2).webp",
+            "arhistratig_investicij_ag_2025_av-removebg-preview.webp"
+        ]
+    },
+    {
         "code": "C57",
         "name": "Безбар’єрність у сувенірному пакованні (н)",
         "descr1": "Пам`ятна монета присвячена філософії суспільства без обмежень, де кожна людина, незалежно від віку, статі, фізичних характеристик, етнічної\nприналежності чи соціального статусу, має рівні можливості для розвитку та самореалізації. Україна – країна героїв, ветеранів і мирних жителів. Створення безбар’єрного середовища є стратегічною інвестицією в майбутнє нації. Це шлях до стійкої та успішної держави, де кожний може жити повноцінно, поважаючи різноманіття, справедливість та інклюзію.",
@@ -826,6 +964,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C57a.png",
         "pdf": "C57u.pdf",
         "characteristics": [
@@ -882,6 +1025,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C51a.png",
         "pdf": "C51u.pdf",
         "characteristics": [
@@ -934,6 +1082,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C60a.png",
         "pdf": "C60u.pdf",
         "characteristics": [
@@ -982,6 +1135,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C56a.png",
         "pdf": "C55u.pdf",
         "characteristics": [
@@ -1038,6 +1196,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C62a.png",
         "pdf": "C62u.pdf",
         "characteristics": [
@@ -1094,6 +1257,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C63a.png",
         "pdf": "C63u.pdf",
         "characteristics": [
@@ -1150,6 +1318,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C64a.png",
         "pdf": "C64u.pdf",
         "characteristics": [
@@ -1206,6 +1379,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8F8a.png",
         "pdf": "8F8u.pdf",
         "characteristics": [
@@ -1250,6 +1428,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C61a.png",
         "pdf": "C61u.pdf",
         "characteristics": [
@@ -1306,6 +1489,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C54a.png",
         "pdf": "C54u.pdf",
         "characteristics": [
@@ -1362,6 +1550,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C59a.png",
         "pdf": "C58u.pdf",
         "characteristics": [
@@ -1418,6 +1611,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8F7a.png",
         "pdf": "8F7u.pdf",
         "characteristics": [
@@ -1454,6 +1652,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C49a.png",
         "pdf": "C49u.pdf",
         "characteristics": [
@@ -1508,6 +1711,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C50a.png",
         "pdf": "C50u.pdf",
         "characteristics": [
@@ -1562,6 +1770,11 @@
         ],
         "quantity": 2,
         "comments": "Одна без капсули",
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C48a.png",
         "pdf": "C48u.pdf",
         "characteristics": [
@@ -1616,6 +1829,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8F5a.png",
         "pdf": "8F5u.pdf",
         "characteristics": [
@@ -1660,6 +1878,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C47a.png",
         "pdf": "C46u.pdf",
         "characteristics": [
@@ -1710,6 +1933,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8F4a.png",
         "pdf": "8F4u.pdf",
         "characteristics": [
@@ -1754,6 +1982,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C45a.png",
         "pdf": "C44u.pdf",
         "characteristics": [
@@ -1810,6 +2043,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C43a.png",
         "pdf": "C43u.pdf",
         "characteristics": [
@@ -1864,6 +2102,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C38a.png",
         "pdf": "C38u.pdf",
         "characteristics": [
@@ -1920,6 +2163,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C42a.png",
         "pdf": "C42u.pdf",
         "characteristics": [
@@ -1974,6 +2222,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C52a.png",
         "pdf": "C42u.pdf",
         "characteristics": [
@@ -2030,6 +2283,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C41a.png",
         "pdf": "C41u.pdf",
         "characteristics": [
@@ -2084,6 +2342,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C36a.png",
         "pdf": "C36u.pdf",
         "characteristics": [
@@ -2134,6 +2397,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C39a.png",
         "pdf": "C39u.pdf",
         "characteristics": [
@@ -2190,6 +2458,11 @@
         ],
         "quantity": 4,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8FWa.png",
         "pdf": "",
         "characteristics": [
@@ -2230,6 +2503,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C37a.png",
         "pdf": "C37u.pdf",
         "characteristics": [
@@ -2282,6 +2560,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8FTa.png",
         "pdf": "8FTu.pdf",
         "characteristics": [
@@ -2338,6 +2621,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C33a.png",
         "pdf": "C33u.pdf",
         "characteristics": [
@@ -2388,6 +2676,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8FZa.png",
         "pdf": "8FZu.pdf",
         "characteristics": [
@@ -2428,6 +2721,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C16a.png",
         "pdf": "C16u.pdf",
         "characteristics": [
@@ -2482,6 +2780,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C20a.png",
         "pdf": "C20u.pdf",
         "characteristics": [
@@ -2538,6 +2841,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C26a.png",
         "pdf": "C26u.pdf",
         "characteristics": [
@@ -2594,6 +2902,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8FJa.png",
         "pdf": "8FJu.pdf",
         "characteristics": [
@@ -2638,6 +2951,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C15a.png",
         "pdf": "C31u.pdf",
         "characteristics": [
@@ -2694,6 +3012,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C24a.png",
         "pdf": "C23u.pdf",
         "characteristics": [
@@ -2750,6 +3073,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C22a.png",
         "pdf": "C22u.pdf",
         "characteristics": [
@@ -2804,6 +3132,11 @@
         ],
         "quantity": 2,
         "comments": "Одна без капсули",
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C32a.png",
         "pdf": "C32u.pdf",
         "characteristics": [
@@ -2860,6 +3193,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C35a.png",
         "pdf": "C35u.pdf",
         "characteristics": [
@@ -2910,6 +3248,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C13a.png",
         "pdf": "C13u.pdf",
         "characteristics": [
@@ -2966,6 +3309,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8FLa.png",
         "pdf": "8FLu.pdf",
         "characteristics": [
@@ -3006,6 +3354,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C29a.png",
         "pdf": "C30u.pdf",
         "characteristics": [
@@ -3060,6 +3413,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C30a.png",
         "pdf": "C30u.pdf",
         "characteristics": [
@@ -3116,6 +3474,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8FKa.png",
         "pdf": "8FKu.pdf",
         "characteristics": [
@@ -3140,6 +3503,75 @@
         ]
     },
     {
+        "code": "LV_SUNFLOWER",
+        "name": "2 euro commemorative coin \"Sunflower for Ukraine\" roll",
+        "descr1": "The national side of the coin will depict one of the symbols of the Ukrainian people in the fight for peace – a sunflower. Ukraine is the world's largest producer of sunflowers and exporter of sunflower oil. However, sunflowers are important not only from the point of view of the national economy – since Russia started the cruel war in Ukraine, the sunflower has also become a global symbol of peace. For the first time, sunflowers were planted in Ukraine as a symbol of peace at the Pervomaisk missile base to mark the removal of nuclear weapons from the country. Currently, sunflowers are used by people all over the world to show unity with the Ukrainian people.",
+        "descr2": "One of the symbols of the Ukrainian people in the fight for peace – a sunflower and the inscription \"SLAVA UKRAINAI!\" (Glory to Ukraine!). The name of the country (LATVIJA) and the year of issue (2023).",
+        "descr3": "A geographical image of Europe, the number \"2\" and the inscription EURO.",
+        "series": "Закордонні",
+        "nominal": 50,
+        "currency": "EUR",
+        "date": "05.2023",
+        "material": "біметал",
+        "country": "Латвія",
+        "tags": [
+            "Закордонні",
+            "Ролик"
+        ],
+        "quantity": 1,
+        "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": null,
+            "date": null
+        },
+        "main_image": "2euro_Saulespuke_e-monetas_600x600px_Rullis.jpg",
+        "pdf": "",
+        "characteristics": [
+            [
+                "Маса, г",
+                "8.50"
+            ],
+            [
+                "Діаметр, мм",
+                "25.75"
+            ],
+            [
+                "Товщина монети з гуртом, мм",
+                "2.2"
+            ],
+            [
+                "Гурт",
+                "напис на гурті"
+            ],
+            [
+                "Тираж, шт.",
+                "400000"
+            ],
+            [
+                "Монетний двір",
+                "UAB Lietuvos monetu kalykla (Lithuania)"
+            ],
+            [
+                "Художник (National side)",
+                "Krišs Salmanis"
+            ],
+            [
+                "Скульптор",
+                "Jānis Strupulis"
+            ],
+            [
+                "Художник (Common side)",
+                "Luc Luycx"
+            ]
+        ],
+        "images": [
+            "2euro_Saulespuke_e-monetas_600x600px_AV.png",
+            "2euro_Saulespuke_e-monetas_600x600px_Rullis.jpg",
+            "2euro_Saulespuke_e-monetas_600x600px_RV.png"
+        ]
+    },
+    {
         "code": "8E1",
         "name": "Пам`ятна банкнота `ПАМ’ЯТАЄМО! НЕ ПРОБАЧИМО!` (у конверті)",
         "descr1": "Пам’ятна банкнота введена в обіг на відзначення стійкості, незламності, героїзму та сили духу українського народу, які він виявляє у боротьбі проти збройної агресії росії.\n24 лютого 2022 року росія розпочала повномасштабне вторгнення в Україну, оголосивши проведення “спеціальної військової операції”. Дії агресора, який масово та жорстоко вбиває цивільне населення, завдає нещадних артилерійських обстрілів та авіаударів, руйнує інфраструктуру та знищує населенні пункти, викликають шок у всьому цивілізованому світі! \nУкраїна відстоює свою незалежність, суверенітет, територіальну цілісність та право на життя! Наша Перемога – це перемога добра, справедливості, демократії; перемога світла над темрявою!\nПам’ятна банкнота номіналом 20 гривень 2023 року випуску з підписом Голови Національного банку України Андрія Пишного серії ЗС з номерами 0000001–0300000; містить елементи захисту чинного номінального ряду банкнот та додаткові оптично-змінні елементи захисту; розмір банкноти – 80 x 165 мм.",
@@ -3156,6 +3588,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8E1a.png",
         "pdf": "",
         "characteristics": [
@@ -3191,6 +3628,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8EZa.png",
         "pdf": "",
         "characteristics": [
@@ -3228,6 +3670,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8E0a.png",
         "pdf": "8E0u.pdf",
         "characteristics": [
@@ -3285,6 +3732,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C07a.png",
         "pdf": "C07u.pdf",
         "characteristics": [
@@ -3339,6 +3791,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C10a.png",
         "pdf": "C08u.pdf",
         "characteristics": [
@@ -3395,6 +3852,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8FFa.png",
         "pdf": "8FFu.pdf",
         "characteristics": [
@@ -3435,6 +3897,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C02a.png",
         "pdf": "",
         "characteristics": [
@@ -3491,6 +3958,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "C00a.png",
         "pdf": "",
         "characteristics": [
@@ -3529,6 +4001,134 @@
         ]
     },
     {
+        "code": "LV_VOLIA",
+        "name": "For the Freedom of Ukraine",
+        "descr1": "Russia's invasion of Ukraine on 24 February 2022 changed the course of the world's history and deeply shattered all of us. Ukraine continues fighting for its freedom as well as for the values of Western civilization, thus also for our values. The coin is a reminder that one should not grow tired and tolerate what is happening in Ukraine. The freedom of Ukraine is a shared responsibility.\nThe author of the collector coin \"For the Freedom of Ukraine\" is a Ukrainian artist Sergiy Maidukov. The artist has chosen to focus the coin's perspective on one single word – ВОЛЯ – that has multiple meanings in his native tongue: FREEDOM; WILL; POWER.\nThe coin is not only of a symbolic, but also of a practical significance. With the help of the coin, Latvijas Banka will make donations to support Ukraine. The proceeds gained from each coin it sells will be donated to Ukraine.\nThe letters touching the silver surface both pierce the plane and rise above it or dive into a silver mirror, each in their own rhythm... This is the reality of the close distance.\nThe bird with the little golden star depicted on the coin's reverse is an image representing a future political promise – Ukraine becoming part of the European Union. But not only that. This serves as both evidence and a reminder that a guarantee of freedom is integral to the flight of spirit.\nThe competition for the graphic design of the coin \"For the Freedom of Ukraine\" was unique in that upon Latvijas Banka's invitation it gathered five acknowledged artists from Ukraine – Kateryna Bielobrova, Nikita Kadan, Sergiy Maidukov, Roman Minin and Anna Zvyagintseva.\nThe nature of all works submitted to the competition was deeply emotional and personal.\nLatvijas Banka expresses its gratitude to everyone who supports Ukraine in its fight for freedom by buying this coin. \nBooklet of the coin ir print format.",
+        "descr2": "The Ukrainian word \"ВОЛЯ\" with frosting of different intensity arranged in two rows, the Latvian translations \"BRĪVĪBA VARA GRIBA\" placed on the top left and arranged in three rows, the inscription \"LATVIJA УКРАÏНI\" placed on the right and arranged in two rows.",
+        "descr3": "A bird with a gilded star in its beak with frosting of different intensity. The inscription \"5 EURO\" on the left, the year \"2022\" at the bottom.",
+        "series": "Закордонні",
+        "nominal": 5,
+        "currency": "EUR",
+        "date": 2022,
+        "material": "срібло",
+        "country": "Латвія",
+        "tags": [
+            "Закордонні"
+        ],
+        "quantity": 1,
+        "comments": null,
+        "video": "https://youtu.be/N--0D-aCbhU",
+        "buy_info": {
+            "price": null,
+            "date": null
+        },
+        "main_image": "volia1.png",
+        "pdf": "Ukrainas brivibai_2022.pdf",
+        "characteristics": [
+            [
+                "Маса дорогоцінного металу в чистоті, г",
+                "22.00"
+            ],
+            [
+                "Діаметр, мм",
+                "35.00"
+            ],
+            [
+                "Категорія якості карбування",
+                "пруф"
+            ],
+            [
+                "Гурт",
+                "гладкий"
+            ],
+            [
+                "Тираж, шт.",
+                "8000"
+            ],
+            [
+                "Монетний двір",
+                "UAB Lietuvos monetu kalykla (Lithuania)"
+            ],
+            [
+                "Художник",
+                "Sergiy Maidukov"
+            ],
+            [
+                "Скульптор",
+                "Ligita Franckeviča"
+            ]
+        ],
+        "images": [
+            "volia1.png",
+            "volia2.png",
+            "volia3.jpg",
+            "volia4.jpg"
+        ]
+    },
+    {
+        "code": "INV_30RN",
+        "name": "30 років незалежності України",
+        "descr1": "30 років незалежності України 1 гривня зразка 2021 року. Інвестиційні монети – особлива група сучасної монетної продукції, яка призначена для вкладання коштів широким колом інвесторів, в тому числі приватними особами. Продукція є засобом платежу та одночасно належить до категорії банківських металів.",
+        "descr2": "На аверсі монети розміщено: угорі малий Державний Герб України, під яким напис – УКРАЇНА, по колу на тлі патерну зі стилізованих давньоруських київських гривен – вагової, лічильної та монетної одиниці, зображено стилізований лавровий вінок, унизу номінал – 1 ₴; у центрі у восьмикутному картуші на дзеркальному тлі зображено логотип, під яким написи: НАЦІОНАЛЬНИЙ/    БАНК   УКРАЇНИ  /  2021 / Ag 999,9  31,1 (позначення металу, його проби і маси в чистоті). Унизу ліворуч розміщено логотип Банкнотно-монетного двору Національного банку України.",
+        "descr3": "На реверсі монети зображено айдентику до Дня незалежності України – цифру 3 та стилізовану цифру 0 у вигляді квітки з написами: ТИ У МЕНЕ ЄДИНА (угорі півколом), РОКІВ/НЕЗАЛЕЖНОСТІ/УКРАЇНИ (унизу).",
+        "series": "Інвестиційні монети",
+        "nominal": 1,
+        "currency": "UAH",
+        "date": 2021,
+        "material": "срібло",
+        "country": "Україна",
+        "tags": [
+            "Інвестиційні монети"
+        ],
+        "quantity": 1,
+        "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": null,
+            "date": null
+        },
+        "main_image": "28853554629288.webp",
+        "pdf": "",
+        "characteristics": [
+            [
+                "Маса дорогоцінного металу в чистоті, г",
+                "31.1"
+            ],
+            [
+                "Діаметр, мм",
+                "38.6"
+            ],
+            [
+                "Товщина монети з гуртом, мм",
+                "3.0"
+            ],
+            [
+                "Категорія якості карбування",
+                "анциркулейтед"
+            ],
+            [
+                "Гурт",
+                "рифлений"
+            ],
+            [
+                "Художник",
+                "Таран Володимир, Харук Олександр, Харук Сергій"
+            ],
+            [
+                "Скульптор",
+                "Володимир Дем’яненко, програмне моделювання – Юрій Лук’янов"
+            ],
+            [
+                "Роки карбування та тираж",
+                "2021 (15 000 шт.)"
+            ]
+        ],
+        "images": [
+            "28853554629288.webp",
+            "54128903542883.webp"
+        ]
+    },
+    {
         "code": "8A1",
         "name": "Cувенірна банкнота `Сто гривень` (до 100-річчя подій Української революції 1917 - 1921 років)",
         "descr1": "Сувенірна банкнота `Сто гривень` відтворює дизайн української банкноти номінальною вартістю 100 гривень, введеної в обіг 17 жовтня 1918 року.      Навесні 1918 року український уряд ухвалив рішення змінити назву вітчизняних грошей із `карбованців` на `гривні`, бажаючи підкреслити спадковість традицій державотворення з часів Київської Русі.                                       Найціннішою з мистецького погляду була купюра номіналом 100 гривень, розроблена і виконана Г. Нарбутом, на якій зображено пишний вінок із квітів, плодів, овочів, пшениці. Обабіч стоять жінка в національному вбранні зі снопом пшениці та серпом у руці і чоловік у фартуху, що спирається на молот, обвитий лавром. Написи зворотного боку включено у великий картуш із рослинно-плодового орнаменту, а по боках - декоративні колони. Увінчує всю композицію тризуб, обрамлений лавровим вінком.                 Банкнота виготовлена на папері з водяним знаком (зображення тризуба). Її  розміри: 80 х 170 мм.",
@@ -3545,6 +4145,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "8A1a.png",
         "pdf": "",
         "characteristics": [
@@ -3581,6 +4186,11 @@
         ],
         "quantity": 2,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "100_suvenirna_banknota_av_internet_big.webp",
         "pdf": "",
         "characteristics": [
@@ -3617,6 +4227,11 @@
         ],
         "quantity": 1,
         "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
         "main_image": "323a.png",
         "pdf": "",
         "characteristics": [
@@ -3652,122 +4267,6 @@
         "images": [
             "323a.png",
             "323r.png"
-        ]
-    },
-    {
-        "code": "INV_30RN",
-        "name": "30 років незалежності України",
-        "descr1": "30 років незалежності України 1 гривня зразка 2021 року. Інвестиційні монети – особлива група сучасної монетної продукції, яка призначена для вкладання коштів широким колом інвесторів, в тому числі приватними особами. Продукція є засобом платежу та одночасно належить до категорії банківських металів.",
-        "descr2": "На аверсі монети розміщено: угорі малий Державний Герб України, під яким напис – УКРАЇНА, по колу на тлі патерну зі стилізованих давньоруських київських гривен – вагової, лічильної та монетної одиниці, зображено стилізований лавровий вінок, унизу номінал – 1 ₴; у центрі у восьмикутному картуші на дзеркальному тлі зображено логотип, під яким написи: НАЦІОНАЛЬНИЙ/    БАНК   УКРАЇНИ  /  2021 / Ag 999,9  31,1 (позначення металу, його проби і маси в чистоті). Унизу ліворуч розміщено логотип Банкнотно-монетного двору Національного банку України.",
-        "descr3": "На реверсі монети зображено айдентику до Дня незалежності України – цифру 3 та стилізовану цифру 0 у вигляді квітки з написами: ТИ У МЕНЕ ЄДИНА (угорі півколом), РОКІВ/НЕЗАЛЕЖНОСТІ/УКРАЇНИ (унизу).",
-        "series": "Інвестиційні монети",
-        "nominal": 1,
-        "currency": "UAH",
-        "date": 2021,
-        "material": "срібло",
-        "country": "Україна",
-        "tags": [
-            "Інвестиційні монети"
-        ],
-        "quantity": 1,
-        "comments": null,
-        "main_image": "28853554629288.webp",
-        "pdf": "",
-        "characteristics": [
-            [
-                "Маса дорогоцінного металу в чистоті, г",
-                "31,1"
-            ],
-            [
-                "Діаметр, мм",
-                "38,6"
-            ],
-            [
-                "Товщина монети з гуртом, мм",
-                "3,0"
-            ],
-            [
-                "Категорія якості карбування",
-                "анциркулейтед"
-            ],
-            [
-                "Гурт",
-                "рифлений"
-            ],
-            [
-                "Художник",
-                "Таран Володимир, Харук Олександр, Харук Сергій"
-            ],
-            [
-                "Скульптор",
-                "Володимир Дем’яненко, програмне моделювання – Юрій Лук’янов"
-            ],
-            [
-                "Роки карбування та тираж",
-                "2021 (15 000 шт.)"
-            ]
-        ],
-        "images": [
-            "28853554629288.webp",
-            "54128903542883.webp"
-        ]
-    },
-    {
-        "code": "INV_AM25",
-        "name": "Архістратиг Михаїл 2025",
-        "descr1": "Архістратиг Михаїл 1 гривня зразка 2020 року. Інвестиційні монети – особлива група сучасної монетної продукції, яка призначена для вкладання коштів широким колом інвесторів, в тому числі приватними особами. Продукція є засобом платежу та одночасно належить до категорії банківських металів.",
-        "descr2": "На аверсі монети розміщено: угорі малий Державний Герб України, під яким напис – УКРАЇНА, по колу на тлі патерну зі стилізованих давньоруських київських гривен – вагової, лічильної та монетної одиниці зображено стилізований лавровий вінок, унизу номінал – 1 ₴; у центрі у восьмикутному картуші на дзеркальному тлі зображено логотип, під яким написи: НАЦІОНАЛЬНИЙ/БАНК УКРАЇНИ/ рік карбування – 2020/ та позначення металу, його проби і маси в чистоті – Ag 999,9 31,1. Унизу ліворуч розміщено логотип Банкнотно-монетного двору Національного банку України.",
-        "descr3": "На реверсі монети зображено Архістратига Михаїла - архангела, який є одним з найбільш шанованих біблійних персонажів, переможцем зла, покровителем воїнів, які борються за праведне діло; по колу розміщено напис …ЗА НАС І ДУШІ ПРАВЕДНИХ, І СИЛА АРХІСТРАТИГА МИХАЇЛА (рядки з поеми Т. Г. Шевченка \"Гайдамаки\").",
-        "series": "Інвестиційні монети",
-        "nominal": 1,
-        "currency": "UAH",
-        "date": 2025,
-        "material": "срібло",
-        "country": "Україна",
-        "tags": [
-            "Інвестиційні монети"
-        ],
-        "quantity": 1,
-        "comments": null,
-        "main_image": "arhistratig-silver-2021-r(2).webp",
-        "pdf": "",
-        "characteristics": [
-            [
-                "Маса дорогоцінного металу в чистоті, г",
-                "31,1"
-            ],
-            [
-                "Діаметр, мм",
-                "38,6"
-            ],
-            [
-                "Товщина монети з гуртом, мм",
-                "3,0"
-            ],
-            [
-                "Категорія якості карбування",
-                "анциркулейтед"
-            ],
-            [
-                "Гурт",
-                "рифлений"
-            ],
-            [
-                "Художник",
-                "Таран Володимир, Харук Олександр, Харук Сергій"
-            ],
-            [
-                "Скульптор",
-                "Іваненко Святослав, програмне моделювання – Віталій Андріянов, Юрій Лук’янов"
-            ],
-            [
-                "Роки карбування та тираж",
-                "2020 (31 000 шт.), 2021 (20 000 шт.), 2022 (10 000 шт.), 2023 (10 000 шт.), 2024 (5 000 шт.), 2025 (30 000 шт.)"
-            ]
-        ],
-        "images": [
-            "arhistratig-silver-2021-r(2).webp",
-            "arhistratig_investicij_ag_2025_av-removebg-preview.webp"
         ]
     }
 ]

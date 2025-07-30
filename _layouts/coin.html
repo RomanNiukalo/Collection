@@ -151,6 +151,28 @@ layout: default
   </table>
 {% endif %}
 
+<!-- Buy Info -->
+{% if coin.buy_price %}
+  <p><strong>Buy Price:</strong> 
+    <span id="buy-price" style="display:none;">{{ coin.buy_price }}</span>
+  </p>
+{% endif %}
+
+<script>
+(function() {
+  const buyPriceEl = document.getElementById('buy-price');
+  if (!buyPriceEl) return; // If no price exists, skip
+
+  const params = new URLSearchParams(window.location.search);
+  const showPrice = params.get('showprice');
+
+  // If secret param is present, remember in localStorage
+  if (showPrice === '1') {
+    buyPriceEl.style.display = 'inline';
+  }
+})();
+</script>
+
 <!-- Tags / Series -->
 {% assign valid_tags = coin.tags | compact | reject: "" %}
 {% if valid_tags and valid_tags.size > 0 %}

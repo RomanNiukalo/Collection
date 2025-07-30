@@ -177,9 +177,10 @@ layout: default
 
 <!-- Navigation -->
 {% assign coins = site.data.coins %}
+{% capture current_code %}{{ page.code }}{% endcapture %}
 {% assign current_index = -1 %}
 {% for c in coins %}
-  {% if c.code == page.code %}
+  {% if c.code == current_code %}
     {% assign current_index = forloop.index0 %}
   {% endif %}
 {% endfor %}

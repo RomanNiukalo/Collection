@@ -903,7 +903,7 @@
         "comments": null,
         "video": null,
         "buy_info": {
-            "price": 3580,
+            "price": 0,
             "date": null
         },
         "main_image": "arhistratig-silver-2021-r(2).webp",
@@ -3522,7 +3522,7 @@
         "comments": null,
         "video": null,
         "buy_info": {
-            "price": null,
+            "price": 0,
             "date": null
         },
         "main_image": "2euro_Saulespuke_e-monetas_600x600px_Rullis.jpg",
@@ -4019,7 +4019,7 @@
         "comments": null,
         "video": "https://youtu.be/N--0D-aCbhU",
         "buy_info": {
-            "price": null,
+            "price": 0,
             "date": null
         },
         "main_image": "volia1.png",
@@ -4084,7 +4084,7 @@
         "comments": null,
         "video": null,
         "buy_info": {
-            "price": null,
+            "price": 3580,
             "date": null
         },
         "main_image": "28853554629288.webp",

@@ -155,13 +155,17 @@ layout: default
 {% endif %}
 
 <!-- Navigation -->
+{% assign coins = site.data.coins %}
 {% assign current_index = -1 %}
+
 {% for c in coins %}
   {% if c.code == page.code %}
     {% assign current_index = forloop.index0 %}
   {% endif %}
 {% endfor %}
-<p>{{ current_index + 1 }} of {{ coins.size }}</p>
+
+<p>{{ current_index | plus: 1 }} of {{ coins.size }}</p>
+
 <div style="display: flex; justify-content: space-between; max-width: 800px; margin: 40px auto 0;">
   <div>
     {% if current_index > 0 %}
@@ -169,6 +173,7 @@ layout: default
       <a href="{{ '/coins/' | append: prev_coin.code | relative_url }}" style="text-decoration: none;">← {{ prev_coin.name }}</a>
     {% endif %}
   </div>
+
   <div>
     {% if current_index < coins.size | minus: 1 %}
       {% assign next_coin = coins[current_index | plus: 1] %}
@@ -176,6 +181,7 @@ layout: default
     {% endif %}
   </div>
 </div>
+
 
 <!-- Back link -->
 <p style="text-align:center; margin-top: 40px;">

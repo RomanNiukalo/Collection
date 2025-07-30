@@ -156,7 +156,7 @@ layout: default
 
 <!-- Characteristics Table -->
 {% if coin.characteristics %}
-  <h2 style="text-align:center; margin-top: 40px;">Characteristics</h2>
+  <h2 style="text-align:center; margin-top: 40px;">Характеристики</h2>
   <table style="margin: 20px auto; border-collapse: collapse; width: 90%; max-width: 600px;">
     {% for char in coin.characteristics %}
       <tr style="border-bottom: 1px solid #ccc;">
@@ -170,9 +170,9 @@ layout: default
 <!-- Buy Info -->
 {% if coin.buy_info %}
   <p id="buy-info" style="display:none;"><strong>Buy Info:</strong> 
-    <span>Price: {{ coin.buy_info.price }}</span>
-    <span>Quantity: {{ coin.qty }}</span>
-    <span>Date: {{ coin.buy_info.date }}</span>
+    <p>Price: {{ coin.buy_info.price }}</p>
+    <p>Quantity: {{ coin.qty }}</p>
+    <p>Date: {{ coin.buy_info.date }}</p>
   </p>
 {% endif %}
 

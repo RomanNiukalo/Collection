@@ -131,6 +131,22 @@ layout: default
   });
 </script>
 
+ <!-- Info block -->
+ <div style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+    max-width: 500px;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 1.05em;
+  ">
+    <div><strong>Номінал:</strong> {{ coin.nominal }} {{ coin.currency }}</div>
+    <div><strong>Дата:</strong> {{ coin.date }}</div>
+    <div><strong>Матеріал:</strong> {{ coin.material }}</div>
+    <div><strong>Країна:</strong> {{ coin.country }}</div>
+  </div>
+
 <!-- Descriptions -->
 <div style="max-width: 800px; margin: 0 auto 30px; font-size: 16px; line-height: 1.5; color: #333;">
   {% if coin.descr1 %}<p>{{ coin.descr1 }}</p>{% endif %}

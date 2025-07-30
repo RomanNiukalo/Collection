@@ -184,28 +184,34 @@ layout: default
   {% endif %}
 {% endfor %}
 
-{% assign prev_coin = null %}
-{% assign next_coin = null %}
-{% if current_index > 0 %}
-  {% assign prev_coin = coins[current_index | minus: 1] %}
+{% assign prev_index = current_index | minus: 1 %}
+{% assign next_index = current_index | plus: 1 %}
+
+{% if prev_index >= 0 %}
+  {% assign prev_coin = coins[prev_index] %}
 {% endif %}
-{% if current_index < coins.size | minus: 1 %}
-  {% assign next_coin = coins[current_index | plus: 1] %}
+{% if next_index < coins.size %}
+  {% assign next_coin = coins[next_index] %}
 {% endif %}
 
-<div style="display: flex; justify-content: space-between; max-width: 800px; margin: 40px auto 0;">
+<div style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: 40px auto 0;">
   <div>
     {% if prev_coin %}
       <a href="{{ '/coins/' | append: prev_coin.code | relative_url }}" style="text-decoration: none;">← {{ prev_coin.name }}</a>
     {% endif %}
   </div>
+
+  <!-- Counter -->
+  <div style="font-weight: bold;">
+    {{ current_index | plus: 1 }} of {{ coins.size }}
+  </div>
+
   <div>
     {% if next_coin %}
       <a href="{{ '/coins/' | append: next_coin.code | relative_url }}" style="text-decoration: none;">{{ next_coin.name }} →</a>
     {% endif %}
   </div>
 </div>
-
 
 <!-- Back link -->
 <p style="text-align:center; margin-top: 40px;">

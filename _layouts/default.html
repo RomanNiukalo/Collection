@@ -10,13 +10,25 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <header class="page-header" role="banner">
-      <nav style="display:flex;background:none;box-shadow:none;">
-        <a href="{{ '/' | relative_url }}" style="text-decoration:none;color:#222;font-weight:600;font-size:1.1em;letter-spacing:0.5px;transition:color 0.2s;">Main</a>
-        <a href="{{ '/coins' | relative_url }}" style="text-decoration:none;color:#222;font-weight:600;font-size:1.1em;letter-spacing:0.5px;transition:color 0.2s;">Coins</a>
-        <a href="{{ '/stamps' | relative_url }}" style="text-decoration:none;color:#222;font-weight:600;font-size:1.1em;letter-spacing:0.5px;transition:color 0.2s;">Stamps</a>
-      </nav>
-      <h1 class="project-name">
+    <header class="page-header" role="banner" style="position: relative;">
+      {% if page.slug != "index" %}
+        <nav style="
+          position: absolute;
+          top: 0.5em;
+          left: 1em;
+          display: flex;
+          gap: 1em;
+          font-size: 0.9em;
+          font-weight: 600;
+          background: none;
+        ">
+          <a href="{{ '/' | relative_url }}" style="text-decoration:none;color:#555;transition:color 0.2s;">Main</a>
+          <a href="{{ '/coins' | relative_url }}" style="text-decoration:none;color:#555;transition:color 0.2s;">Coins</a>
+          <a href="{{ '/stamps' | relative_url }}" style="text-decoration:none;color:#555;transition:color 0.2s;">Stamps</a>
+        </nav>
+      {% endif %}
+
+      <h1 class="project-name" style="margin-top: 0.5em;">
         {% if page.layout == "default" %}
           {{ page.title }}
         {% else %}

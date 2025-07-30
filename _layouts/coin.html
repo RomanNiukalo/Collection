@@ -169,24 +169,36 @@ layout: default
 
 <!-- Buy Info -->
 {% if coin.buy_info %}
-  <p id="buy-info" style="display:none;"><strong>Інформація про покупку:</strong> 
-    <p>Ціна: {{ coin.buy_info.price }}</p>
-    <p>Кількість: {{ coin.qty }}</p>
-    <p>Дата: {{ coin.buy_info.date }}</p>
-  </p>
+  <h2 id="buy-info-h" style="text-align:center; margin-top: 40px; display:none;">Інформація про покупку</h2>
+  <table id="buy-info-table" style="margin: 20px auto; border-collapse: collapse; width: 90%; max-width: 600px; display:none;">
+    <tr>
+      <td style="padding: 8px; font-weight: bold;">Ціна:</td>
+      <td style="padding: 8px;">{{ coin.buy_info.price }}</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; font-weight: bold;">Кількість:</td>
+      <td style="padding: 8px;">{{ coin.qty }}</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; font-weight: bold;">Дата:</td>
+      <td style="padding: 8px;">{{ coin.buy_info.date }}</td>
+    </tr>
+  </table>
 {% endif %}
 
 <script>
 (function() {
-  const buyInfoEl = document.getElementById('buy-info');
-  if (!buyInfoEl) return; // If no price exists, skip
+  const buyInfoEl1 = document.getElementById('buy-info-h');
+  const buyInfoEl2 = document.getElementById('buy-info-table');
+  if (!buyInfoEl1) return; // If no price exists, skip
 
   const params = new URLSearchParams(window.location.search);
   const price = params.get('price');
 
   // If secret param is present, remember in localStorage
   if (price === '1') {
-    buyInfoEl.style.display = 'inline';
+    buyInfoEl1.style.display = 'block';
+    buyInfoEl2.style.display = 'table';
   }
 })();
 </script>

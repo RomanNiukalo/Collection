@@ -64,6 +64,12 @@ layout: default
       justify-content: center;
   ">›</button>
 </div>
+<!-- Dots for carousel -->
+<div id="carouselDots" style="text-align:center;margin-top:10px;">
+  {% for image in coin.images %}
+    <span class="carousel-dot" data-index="{{ forloop.index0 }}" style="display:inline-block;width:10px;height:10px;margin:0 4px;border-radius:50%;background:#ccc;vertical-align:middle;cursor:pointer;"></span>
+  {% endfor %}
+</div>
 
 <!-- Carousel Script -->
 <script>
@@ -84,6 +90,15 @@ layout: default
     preloaded.push(img);
   });
 
+  // Dots
+  const dots = document.querySelectorAll('.carousel-dot');
+  function updateDots() {
+    dots.forEach((dot, idx) => {
+      dot.style.background = idx === current ? '#007bff' : '#ccc';
+    });
+  }
+  updateDots();
+
   function showImage(index) {
     const nextIndex = (index + images.length) % images.length;
     if (nextIndex === current) return; // no change
@@ -93,11 +108,17 @@ layout: default
       current = nextIndex;
       carousel.src = images[current]; // change after fade-out
       carousel.style.opacity = 1; // fade in
+      updateDots();
     }, 200); // half of transition duration
   }
 
   function prevImage() { showImage(current - 1); }
   function nextImage() { showImage(current + 1); }
+
+  // Make dots clickable
+  dots.forEach((dot, idx) => {
+    dot.addEventListener('click', () => showImage(idx));
+  });
 
   // Swipe support for mobile
   let startX = 0;
@@ -149,7 +170,7 @@ layout: default
     <a href="{{ '/assets/coins/' | append: coin.code | append: '/' | append: coin.pdf | relative_url }}"
        target="_blank"
        style="background: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration:none;">
-       📄 View PDF
+       📄 Буклет
     </a>
   </p>
 {% endif %}

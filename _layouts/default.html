@@ -1,33 +1,36 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  </head>
-  <body>
-    <header class="page-header" role="banner">
-      <nav style="background:#f7f7f7;padding:0.7em 0 0.7em 0;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.04);margin-bottom:1em;">
-        <a href="{{ '/' | relative_url }}" style="margin:0 1.5em;text-decoration:none;color:#222;font-weight:600;">Main</a>
-        <a href="{{ '/coins' | relative_url }}" style="margin:0 1.5em;text-decoration:none;color:#222;font-weight:600;">Coins</a>
-        <a href="{{ '/stamps' | relative_url }}" style="margin:0 1.5em;text-decoration:none;color:#222;font-weight:600;">Stamps</a>
-      </nav>
-      <h1 class="project-name">
-        {% if page.layout == "default" %}
-          {{ page.title }}
-        {% else %}
-          {% assign coin = site.data.coins | where: "code", page.code | first %}
-          {{ coin.name }}
-        {% endif %}
-      </h1>
-    </header>
+<html lang="{{ site.lang | default: " en-US" }}">
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
-    </main>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+
+<body>
+  <header class="page-header" role="banner" style="padding: 0; margin: 0;">
+      <a href="{{ '/' | relative_url }}" style="text-decoration: none; color: #157878;">Main</a>
+      <a href="{{ '/coins' | relative_url }}" style="text-decoration: none; color: #157878;">Coins</a>
+      <a href="{{ '/stamps' | relative_url }}" style="text-decoration: none; color: #157878;">Stamps</a>
+
+    <!-- Page Title -->
+    <h1 class="project-name">
+      {% if page.layout == "default" %}
+      {{ page.title }}
+      {% else %}
+      {% assign coin = site.data.coins | where: "code", page.code | first %}
+      {{ coin.name }}
+      {% endif %}
+    </h1>
+  </header>
+
+  <main id="content" class="main-content" role="main">
+    {{ content }}
+  </main>
+</body>
+
 </html>

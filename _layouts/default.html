@@ -27,16 +27,16 @@
             -1px  1px 0 #fff,
             1px  1px 0 #fff;
         ">
-          <a href="{{ '/' | relative_url }}" style="text-decoration:none;">Main</a>
-          <a href="{{ '/coins' | relative_url }}" style="text-decoration:none;">Coins</a>
-          <a href="{{ '/stamps' | relative_url }}" style="text-decoration:none;">Stamps</a>
+          <a href="{{ '/' | relative_url }}" style="text-decoration:none;">Головна {{page.slug}}</a>
+          <a href="{{ '/coins' | relative_url }}" style="text-decoration:none;">Монети</a>
+          <a href="{{ '/stamps' | relative_url }}" style="text-decoration:none;">Марки</a>
         </nav>
       {% endif %}
 
       <h1 class="project-name" style="margin-top: 0.5em;">
         {% if page.layout == "default" %}
           {{ page.title }}
-        {% else %}
+        {% elsif page.layout == "coin" %}
           {% assign coin = site.data.coins | where: "code", page.code | first %}
           {{ coin.name }}
         {% endif %}

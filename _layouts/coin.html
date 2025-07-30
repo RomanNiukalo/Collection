@@ -169,10 +169,10 @@ layout: default
 
 <!-- Buy Info -->
 {% if coin.buy_info %}
-  <p id="buy-info" style="display:none;"><strong>Buy Info:</strong> 
-    <p>Price: {{ coin.buy_info.price }}</p>
-    <p>Quantity: {{ coin.qty }}</p>
-    <p>Date: {{ coin.buy_info.date }}</p>
+  <p id="buy-info" style="display:none;"><strong>Інформація про покупку:</strong> 
+    <p>Ціна: {{ coin.buy_info.price }}</p>
+    <p>Кількість: {{ coin.qty }}</p>
+    <p>Дата: {{ coin.buy_info.date }}</p>
   </p>
 {% endif %}
 
@@ -195,7 +195,7 @@ layout: default
 {% assign valid_tags = coin.tags | compact | reject: "" %}
 {% if valid_tags and valid_tags.size > 0 %}
   <div style="text-align:center; margin: 30px 0;">
-    <strong>Tags:</strong>
+    <strong>Теги:</strong>
     {% for tag in valid_tags %}
       <a href="{{ '/coins' | relative_url }}?tag={{ tag | uri_escape }}"
           style="background: #eef; padding: 5px 10px; margin: 5px; border-radius: 12px; font-size: 14px; text-decoration:none; display:inline-block;">
@@ -257,5 +257,5 @@ layout: default
 
 <!-- Back link -->
 <p style="text-align:center; margin-top: 40px;">
-  <a href="{{ '/coins' | relative_url }}">← Back to Coin List</a>
+  <a href="{{ '/coins' | relative_url }}">← Повернутися до списку монет</a>
 </p>

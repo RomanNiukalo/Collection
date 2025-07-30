@@ -11,6 +11,11 @@
   </head>
   <body>
     <header class="page-header" role="banner">
+      <nav style="background:#f7f7f7;padding:0.7em 0 0.7em 0;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.04);margin-bottom:1em;">
+        <a href="{{ '/' | relative_url }}" style="margin:0 1.5em;text-decoration:none;color:#222;font-weight:600;">Main</a>
+        <a href="{{ '/coins' | relative_url }}" style="margin:0 1.5em;text-decoration:none;color:#222;font-weight:600;">Coins</a>
+        <a href="{{ '/stamps' | relative_url }}" style="margin:0 1.5em;text-decoration:none;color:#222;font-weight:600;">Stamps</a>
+      </nav>
       <h1 class="project-name">
         {% if page.layout == "default" %}
           {{ page.title }}

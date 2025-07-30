@@ -197,18 +197,18 @@ layout: default
 <div style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: 40px auto 0;">
   <div>
     {% if prev_coin %}
-      <a href="{{ '/coins/' | append: prev_coin.code | relative_url }}" style="text-decoration: none;">← {{ prev_coin.name }}</a>
+      <a href="{{ '/coins/' | append: prev_coin.code | relative_url }}" style="text-decoration: none;">←</a>
     {% endif %}
   </div>
 
   <!-- Counter -->
   <div style="font-weight: bold;">
-    {{ current_index | plus: 1 }} of {{ coins.size }}
+    {{ current_index | plus: 1 }} / {{ coins.size }}
   </div>
 
   <div>
     {% if next_coin %}
-      <a href="{{ '/coins/' | append: next_coin.code | relative_url }}" style="text-decoration: none;">{{ next_coin.name }} →</a>
+      <a href="{{ '/coins/' | append: next_coin.code | relative_url }}" style="text-decoration: none;">→</a>
     {% endif %}
   </div>
 </div>

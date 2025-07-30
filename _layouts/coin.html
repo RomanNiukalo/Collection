@@ -153,23 +153,24 @@ layout: default
 
 <!-- Buy Info -->
 {% if coin.buy_info %}
-  <p><strong>Buy Info:</strong> 
-    <span id="buy-price" style="display:none;">{{ coin.buy_info.price }}</span>
-    <span id="buy-date" style="display:none;">{{ coin.buy_info.date }}</span>
+  <p id="buy-info" style="display:none;"><strong>Buy Info:</strong> 
+    <span>Price: {{ coin.buy_info.price }}</span>
+    <span>Quantity: {{ coin.qty }}</span>
+    <span>Date: {{ coin.buy_info.date }}</span>
   </p>
 {% endif %}
 
 <script>
 (function() {
-  const buyPriceEl = document.getElementById('buy-price');
-  if (!buyPriceEl) return; // If no price exists, skip
+  const buyInfoEl = document.getElementById('buy-info');
+  if (!buyInfoEl) return; // If no price exists, skip
 
   const params = new URLSearchParams(window.location.search);
-  const showPrice = params.get('showprice');
+  const price = params.get('price');
 
   // If secret param is present, remember in localStorage
-  if (showPrice === '1') {
-    buyPriceEl.style.display = 'inline';
+  if (price === '1') {
+    buyInfoEl.style.display = 'inline';
   }
 })();
 </script>

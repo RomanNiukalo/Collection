@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coin Collection
+title: Колекція монет
 ---
 
 <div style="
@@ -44,7 +44,7 @@ title: Coin Collection
   const tag = params.get('tag');
   if (!tag) return; // No filtering if no tag
 
-  document.querySelector('h1').textContent = "Coins tagged: " + tag;
+  document.querySelector('h1').textContent = "Монети з тегом: " + tag;
 
   document.querySelectorAll('.coin-item').forEach(item => {
     const tags = item.dataset.tags.split(',').map(t => t.trim());

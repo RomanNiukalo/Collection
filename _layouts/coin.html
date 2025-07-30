@@ -179,9 +179,10 @@ layout: default
   <div style="text-align:center; margin: 30px 0;">
     <strong>Tags:</strong>
     {% for tag in valid_tags %}
-      <span style="background: #eef; padding: 5px 10px; margin: 5px; border-radius: 12px; font-size: 14px;">
+      <a href="{{ '/coins' | relative_url }}?tag={{ tag | uri_escape }}"
+          style="background: #eef; padding: 5px 10px; margin: 5px; border-radius: 12px; font-size: 14px; text-decoration:none; display:inline-block;">
         {{ tag }}
-      </span>
+      </a>
     {% endfor %}
   </div>
 {% endif %}

@@ -12,14 +12,16 @@ title: Coin Collection
 
   {% assign coins = site.data.coins %}
   {% for coin in coins %}
-    <div style="
-        background: #ffffff;
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        padding: 15px;
-        text-align: center;
-        transition: 0.2s;
-      "
+    <div class="coin-item" 
+         data-tags="{{ coin.tags | join: ',' }}"
+         style="
+            background: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            padding: 15px;
+            text-align: center;
+            transition: 0.2s;
+          "
       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.15)';"
       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';"
     >
@@ -35,3 +37,20 @@ title: Coin Collection
   {% endfor %}
 
 </div>
+
+<script>
+(function(){
+  const params = new URLSearchParams(window.location.search);
+  const tag = params.get('tag');
+  if (!tag) return; // No filtering if no tag
+
+  document.querySelector('h1').textContent = "Coins tagged: " + tag;
+
+  document.querySelectorAll('.coin-item').forEach(item => {
+    const tags = item.dataset.tags.split(',').map(t => t.trim());
+    if (!tags.includes(tag)) {
+      item.style.display = 'none';
+    }
+  });
+})();
+</script>

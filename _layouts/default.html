@@ -10,14 +10,12 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <!-- Navigation Bar -->
-    <nav style="width:100%;padding:0.7em 0;text-align:center;position:relative;top:0;left:0;z-index:10;font-family:inherit;">
-      <a href="{{ '/' | relative_url }}" style="margin:0 2em;text-decoration:none;color:#222;font-weight:600;font-size:1.1em;letter-spacing:0.5px;transition:color 0.2s;">Main</a>
-      <a href="{{ '/coins' | relative_url }}" style="margin:0 2em;text-decoration:none;color:#222;font-weight:600;font-size:1.1em;letter-spacing:0.5px;transition:color 0.2s;">Coins</a>
-      <a href="{{ '/stamps' | relative_url }}" style="margin:0 2em;text-decoration:none;color:#222;font-weight:600;font-size:1.1em;letter-spacing:0.5px;transition:color 0.2s;">Stamps</a>
-    </nav>
-    <!-- End Navigation Bar -->
     <header class="page-header" role="banner">
+      <nav style="display:flex;background:none;box-shadow:none;">
+        <a href="{{ '/' | relative_url }}" style="text-decoration:none;color:#222;font-weight:600;font-size:1.1em;letter-spacing:0.5px;transition:color 0.2s;">Main</a>
+        <a href="{{ '/coins' | relative_url }}" style="text-decoration:none;color:#222;font-weight:600;font-size:1.1em;letter-spacing:0.5px;transition:color 0.2s;">Coins</a>
+        <a href="{{ '/stamps' | relative_url }}" style="text-decoration:none;color:#222;font-weight:600;font-size:1.1em;letter-spacing:0.5px;transition:color 0.2s;">Stamps</a>
+      </nav>
       <h1 class="project-name">
         {% if page.layout == "default" %}
           {{ page.title }}

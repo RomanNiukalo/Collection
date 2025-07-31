@@ -3546,51 +3546,6 @@
         ]
     },
     {
-        "code": "8FK",
-        "name": "Ролик обігових пам’ятних монет `Сили підтримки Збройних Сил України` (у ролику 25 монет)",
-        "descr1": "Присвячений окремому роду сил Збройних Сил України - Силам підтримки, на який покладається оперативне забезпечення інженерної підтримки, радіаційного, хімічного та біологічного захисту, топографічного та гідрометеорологічного забезпечення військ.\nНа сувенірному папері, у який запаковано кожний ролик, розміщено написи: БАНКНОТНО-МОНЕТНИЙ ДВІР НБУ, логотип Банкнотно-монетного двору Національного банку України / ОБІГОВА ПАМ’ЯТНА МОНЕТА, СИЛИ ПІДТРИМКИ / ЗСУ; номінал 250 та графічний символ гривні, 25 ШТУК; зображено емблему Сил підтримки ЗСУ та стилізовану старовинну оборонну споруду – палісад.",
-        "descr2": "На аверсі монети розміщено: угорі – малий Державний Герб України, у центрі, в обрамленні давньоруського орнаменту написи: УКРАЇНА / 10 / ГРИВЕНЬ (півколом), на тлі орнаменту: рік карбування монети – 2023 (унизу) та логотип Банкнотно-монетного двору Національного банку України (праворуч).",
-        "descr3": "На реверсі монет розміщено емблему Сил підтримки ЗСУ; по колу написи: СИЛИ ПІДТРИМКИ ЗСУ – ЗАВЖДИ ПОРУЧ (угорі).",
-        "series": null,
-        "nominal": "250",
-        "currency": "UAH",
-        "date": "19.05.2023",
-        "material": "не вказується (набір)",
-        "country": "Україна",
-        "tags": [
-            null
-        ],
-        "quantity": 1,
-        "comments": null,
-        "video": null,
-        "buy_info": {
-            "price": 0,
-            "date": null
-        },
-        "main_image": "8FKa.png",
-        "pdf": "8FKu.pdf",
-        "characteristics": [
-            [
-                "Художник",
-                "Дем`яненко Володимир , Коваленко Ольга"
-            ],
-            [
-                "Скульптор",
-                "Дем`яненко Володимир , Атаманчук Володимир"
-            ],
-            [
-                "Тираж (оголошений/фактичний), шт.",
-                "20000/20000"
-            ]
-        ],
-        "images": [
-            "8FKa.png",
-            "8FKa0.png",
-            "8FKr.png",
-            "8FKr0.png"
-        ]
-    },
-    {
         "code": "LV_SUNFLOWER",
         "name": "2 euro commemorative coin \"Sunflower for Ukraine\" roll",
         "descr1": "The national side of the coin will depict one of the symbols of the Ukrainian people in the fight for peace – a sunflower. Ukraine is the world's largest producer of sunflowers and exporter of sunflower oil. However, sunflowers are important not only from the point of view of the national economy – since Russia started the cruel war in Ukraine, the sunflower has also become a global symbol of peace. For the first time, sunflowers were planted in Ukraine as a symbol of peace at the Pervomaisk missile base to mark the removal of nuclear weapons from the country. Currently, sunflowers are used by people all over the world to show unity with the Ukrainian people.",
@@ -3599,7 +3554,7 @@
         "series": "Закордонні",
         "nominal": 50,
         "currency": "EUR",
-        "date": "05.2023",
+        "date": "30.05.2023",
         "material": "біметал",
         "country": "Латвія",
         "tags": [
@@ -3657,6 +3612,109 @@
             "2euro_Saulespuke_e-monetas_600x600px_AV.png",
             "2euro_Saulespuke_e-monetas_600x600px_Rullis.jpg",
             "2euro_Saulespuke_e-monetas_600x600px_RV.png"
+        ]
+    },
+    {
+        "code": "8FK",
+        "name": "Ролик обігових пам’ятних монет `Сили підтримки Збройних Сил України` (у ролику 25 монет)",
+        "descr1": "Присвячений окремому роду сил Збройних Сил України - Силам підтримки, на який покладається оперативне забезпечення інженерної підтримки, радіаційного, хімічного та біологічного захисту, топографічного та гідрометеорологічного забезпечення військ.\nНа сувенірному папері, у який запаковано кожний ролик, розміщено написи: БАНКНОТНО-МОНЕТНИЙ ДВІР НБУ, логотип Банкнотно-монетного двору Національного банку України / ОБІГОВА ПАМ’ЯТНА МОНЕТА, СИЛИ ПІДТРИМКИ / ЗСУ; номінал 250 та графічний символ гривні, 25 ШТУК; зображено емблему Сил підтримки ЗСУ та стилізовану старовинну оборонну споруду – палісад.",
+        "descr2": "На аверсі монети розміщено: угорі – малий Державний Герб України, у центрі, в обрамленні давньоруського орнаменту написи: УКРАЇНА / 10 / ГРИВЕНЬ (півколом), на тлі орнаменту: рік карбування монети – 2023 (унизу) та логотип Банкнотно-монетного двору Національного банку України (праворуч).",
+        "descr3": "На реверсі монет розміщено емблему Сил підтримки ЗСУ; по колу написи: СИЛИ ПІДТРИМКИ ЗСУ – ЗАВЖДИ ПОРУЧ (угорі).",
+        "series": null,
+        "nominal": "250",
+        "currency": "UAH",
+        "date": "19.05.2023",
+        "material": "не вказується (набір)",
+        "country": "Україна",
+        "tags": [
+            null
+        ],
+        "quantity": 1,
+        "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
+        "main_image": "8FKa.png",
+        "pdf": "8FKu.pdf",
+        "characteristics": [
+            [
+                "Художник",
+                "Дем`яненко Володимир , Коваленко Ольга"
+            ],
+            [
+                "Скульптор",
+                "Дем`яненко Володимир , Атаманчук Володимир"
+            ],
+            [
+                "Тираж (оголошений/фактичний), шт.",
+                "20000/20000"
+            ]
+        ],
+        "images": [
+            "8FKa.png",
+            "8FKa0.png",
+            "8FKr.png",
+            "8FKr0.png"
+        ]
+    },
+    {
+        "code": "LT_TOGETHER",
+        "name": "2 euro commemorative coin \"Together with Ukraine\"",
+        "descr1": null,
+        "descr2": "The centre of the national side (obverse) of the coin features a stylised sunflower with petals resembling silhouettes of people holding hands, embracing and protecting each other, embodying unity, support and the power of being together. Using artistic means, the sunflower is designed as the rising Sun – the hope of a new beginning, and as birds – freedom, hope and courage, as people rising above the circumstances, never accepting any forced will, it is an allusion to those who have sacrificed their lives and their departing souls. The composition is surrounded by inscriptions LIETUVA (LITHUANIA), KARTU SU UKRAINA (TOGETHER WITH UKRAINE), the year of issue (2023) and the mintmark of the Lithuanian Mint. The coin’s outer ring bears the 12 stars of the European Union flag.",
+        "descr3": "The common side of the coin features a geographical image of Europe.",
+        "series": "Закордонні",
+        "nominal": 2,
+        "currency": "EUR",
+        "date": "16.03.2023",
+        "material": "біметал",
+        "country": "Литва",
+        "tags": [
+            "Закордонні"
+        ],
+        "quantity": "~15",
+        "comments": null,
+        "video": "https://youtu.be/hV4yAV1mASI",
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
+        "main_image": "4755_bf15c1b80a9ca33fb7c6a18c0ee9f117.png",
+        "pdf": "UA_moneta_Progine_2023_EN.pdf",
+        "characteristics": [
+            [
+                "Маса, г",
+                "8.50"
+            ],
+            [
+                "Діаметр, мм",
+                "25.75"
+            ],
+            [
+                "Тираж, шт.",
+                "500000"
+            ],
+            [
+                "Гурт",
+                "напис на гурті"
+            ],
+            [
+                "Монетний двір",
+                "Lithuanian Mint"
+            ],
+            [
+                "Художник (National side)",
+                "Eglė Žemaitė"
+            ],
+            [
+                "Художник (Common side)",
+                "Luc Luycx"
+            ]
+        ],
+        "images": [
+            "4755_bf15c1b80a9ca33fb7c6a18c0ee9f117.png"
         ]
     },
     {
@@ -3739,6 +3797,61 @@
             "8EZa1.png",
             "8EZr.png",
             "8EZr0.png"
+        ]
+    },
+    {
+        "code": "EE_SLAVA",
+        "name": "The two-euro coin dedicated to Ukraine and freedom",
+        "descr1": "“The two-euro coin dedicated to Ukraine will from today start to reach people throughout Estonia and elsewhere in Europe through shops. This coin reminds people that freedom is the highest value and it comes at a very high price. Ukraine is currently fighting a war at the cost of the lives of its own people for the shared values of the European cultural space, and it is up to us to keep supporting them in this”, said Eesti Pank Governor Madis Müller. He added that Eesti Pank had decided very quickly to issue the two-euro coin dedicated to Ukraine and Freedom and to mint it this year primarily to provide financial support for the Ukrainian central bank so that they would be able to direct their own assistance where it was most needed. “We would like to thank all those who have made a contribution by buying the coin card that was released in the summer. Supporters have come from around the world, and the first donation of 350,000 euros to Ukraine has already been made. There will certainly be more to come, as the sales for charity continue”, he said.",
+        "descr2": "The two-euro coin for Ukraine and Freedom features the words Slava Ukraini and shows a girl as a symbol of tenderness, protecting a bird in her hand. The design also features an ear of wheat. The coin was designed by a young refugee from Kharkiv, Daria Titova, who is studying at the Estonian Academy of Arts. A total of 2,000,000 of the coins have been minted by the Mint of Finland.",
+        "descr3": "The design depicts the silhouette of a woman holding a bird in her hand, with an ear of wheat. At the top left is the text ‘SLAVA UKRAINI’. At the bottom left are the name of the issuing country ‘EESTI’ and the year of issuance ‘2022’. The coin’s outer ring bears the 12 stars of the European flag.",
+        "series": "Закордонні",
+        "nominal": 2,
+        "currency": "EUR",
+        "date": "29.11.2022",
+        "material": "біметал",
+        "country": "Естонія",
+        "tags": [
+            "Закордонні"
+        ],
+        "quantity": "~20",
+        "comments": null,
+        "video": null,
+        "buy_info": {
+            "price": 0,
+            "date": null
+        },
+        "main_image": "_xof3325_3-1.png",
+        "pdf": "",
+        "characteristics": [
+            [
+                "Маса, г",
+                "8.50"
+            ],
+            [
+                "Діаметр, мм",
+                "25.75"
+            ],
+            [
+                "Тираж, шт.",
+                "2000000"
+            ],
+            [
+                "Монетний двір",
+                "Mint of Finland"
+            ],
+            [
+                "Художник (National side)",
+                "Daria Titova"
+            ],
+            [
+                "Художник (Common side)",
+                "Luc Luycx"
+            ]
+        ],
+        "images": [
+            "_xof3325_3-1.png",
+            "_xof3329_3-1.png"
         ]
     },
     {

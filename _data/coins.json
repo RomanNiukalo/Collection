@@ -3714,6 +3714,7 @@
             ]
         ],
         "images": [
+            "2euro_Saulespuke_e-monetas_600x600px_AV.png",
             "4755_bf15c1b80a9ca33fb7c6a18c0ee9f117.png"
         ]
     },
@@ -3821,7 +3822,7 @@
             "price": 0,
             "date": null
         },
-        "main_image": "_xof3325_3-1.png",
+        "main_image": "3325_3-1.png",
         "pdf": "",
         "characteristics": [
             [
@@ -3850,8 +3851,8 @@
             ]
         ],
         "images": [
-            "_xof3325_3-1.png",
-            "_xof3329_3-1.png"
+            "3325_3-1.png",
+            "3329_3-1.png"
         ]
     },
     {

@@ -149,9 +149,9 @@ layout: default
 
 <!-- Descriptions -->
 <div style="max-width: 800px; margin: 0 auto 30px; font-size: 16px; line-height: 1.5; color: #333;">
-  {% if coin.descr1 %}<p>{{ coin.descr1 }}</p>{% endif %}
-  {% if coin.descr2 %}<p>{{ coin.descr2 }}</p>{% endif %}
-  {% if coin.descr3 %}<p>{{ coin.descr3 }}</p>{% endif %}
+  {% if coin.descr1 and coin.descr1 != "" %}<p>{{ coin.descr1 }}</p>{% endif %}
+  {% if coin.descr2 and coin.descr2 != "" %}<p>{{ coin.descr2 }}</p>{% endif %}
+  {% if coin.descr3 and coin.descr3 != "" %}<p>{{ coin.descr3 }}</p>{% endif %}
 </div>
 
 <!-- Characteristics Table -->
@@ -190,12 +190,11 @@ layout: default
 (function() {
   const buyInfoEl1 = document.getElementById('buy-info-h');
   const buyInfoEl2 = document.getElementById('buy-info-table');
-  if (!buyInfoEl1) return; // If no price exists, skip
+  if (!buyInfoEl1) return;
 
   const params = new URLSearchParams(window.location.search);
   const price = params.get('price');
 
-  // If secret param is present, remember in localStorage
   if (price === '1') {
     buyInfoEl1.style.display = 'block';
     buyInfoEl2.style.display = 'table';
